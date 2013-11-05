@@ -30,6 +30,8 @@
 # Written by George Vlahavas <vlahavas~at~gmail~dot~com> for Salix
 # Written by Cyrille Pontvieux <jrd~at~enialis~dot~net> for Salix
 #
+# some little changes  from ellakberry`at~gmail~dot~com for Ellakberry
+
 # Licensed under the GPLv3
 #
 
