@@ -1,0 +1,12 @@
+
+ M2Crypto (cryptography toolkit for Python) 
+ 
+ M2Crypto is a crypto and SSL toolkit for Python. It includes: 
+ - RSA, DSA, DH, HMACs, message digests, symmetric ciphers (e.g. AES) 
+ - SSL functionality to implement clients and servers 
+ - HTTPS extensions to Python's httplib, urllib, and xmlrpclib 
+ - Unforgeable HMAC'ing AuthCookies for web session management 
+ - FTP/TLS client and server, S/MIME v2, ZServerSSL, ZSmime 
+ 
+ Website: http://wiki.osafoundation.org/bin/view/Projects/MeTooCrypto 
+

@@ -1,0 +1,12 @@
+
+ cifs-utils (CIFS filesystem utilities) 
+ 
+ This is the release version of cifs-utils, a package of utilities for 
+ doing and managing mounts of the Linux CIFS filesystem. The in-kernel 
+ CIFS filesystem is generally the preferred method for mounting 
+ SMB/CIFS shares on Linux. This filesystem relies on a set of 
+ user-space tools that were originally part of Samba, but have now been 
+ split off into this separate package. 
+ 
+ Home page: http://wiki.samba.org/index.php/LinuxCIFS_utils 
+

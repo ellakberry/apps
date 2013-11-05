@@ -1,0 +1,8 @@
+
+ tetex (teTeX binaries and support files) 
+ 
+ This package contains the binaries and support files required for the 
+ teTeX TeX distribution, such as input files for TeX, runtime 
+ configuration files, hyphenation tables, manpages, and the computer 
+ modern fonts. 
+

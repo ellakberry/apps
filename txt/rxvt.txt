@@ -1,0 +1,9 @@
+
+ rxvt (terminal emulator) 
+ 
+ rxvt is a color vt102 terminal emulator intended as an xterm 
+ replacement for users who do not require features such as Tektronix 
+ 4014 emulation and toolkit-style configurability. As a result, rxvt 
+ uses much less memory -- a significant advantage on a machine serving 
+ many X sessions. Also included is rclock, an analog clock for X. 
+

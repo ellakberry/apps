@@ -1,0 +1,9 @@
+
+ kernel (Linux kernel for an ARM Versatile board) 
+ 
+ This Linux Kernel has been prepared specifically for the ARM Ltd 
+ 'Versatile' board, and will not function on other ARM architectures/ 
+ devices. 
+ 
+ Other drivers (such as additional file system support) may be 
+ loaded as modules. See /etc/rc.d/rc.modules for examples.

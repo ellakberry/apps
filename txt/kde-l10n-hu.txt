@@ -1,0 +1,5 @@
+
+ kde-l10n-hu 
+ 
+ Hungarian language support for KDE. 
+

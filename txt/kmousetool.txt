@@ -1,0 +1,7 @@
+
+ kmousetool (Automatic mouse clicks) 
+ 
+ Clicks the mouse for you, reducing hand strain. 
+ 
+ For more information, visit: http://www.kde.org 
+

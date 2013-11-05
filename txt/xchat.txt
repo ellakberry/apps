@@ -1,0 +1,5 @@
+
+ xchat (GTK+-based IRC client) 
+ 
+ X-Chat is a GTK+-based IRC (Internet Relay Chat) client. 
+

@@ -1,0 +1,5 @@
+
+ calligra-l10n-fi 
+ 
+ Finnish language support for Calligra. 
+

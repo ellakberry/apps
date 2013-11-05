@@ -1,0 +1,5 @@
+
+ kdeplasma-addons (Plasma addons for KDE) 
+ 
+ Plasmoids (or widgets) for the KDE Plasma Desktop shell. 
+

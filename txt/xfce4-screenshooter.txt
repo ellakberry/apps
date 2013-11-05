@@ -1,0 +1,6 @@
+
+ xfce4-screenshooter (screenshooter plugin for Xfce) 
+ 
+ The screenshooter plugin adds a panel button that allows you to take 
+ screenshots. 
+

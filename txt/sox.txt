@@ -1,0 +1,9 @@
+
+ sox (universal sound sample translator) 
+ 
+ Sox is a universal sound converter, player, and recorder. It can 
+ play, record, and convert between several sound file formats such as 
+ .au, .snd, .voc and .wav. 
+ 
+ Homepage: http://sox.sourceforge.net/ 
+

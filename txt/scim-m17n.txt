@@ -1,0 +1,9 @@
+
+ scim-m17n (bridge IMengine to support m17n input methods in SCIM) 
+ 
+ SCIM is a developing platform to significantly reduce the difficulty 
+ of input method development. scim-m17n is a SCIM IMEngine module 
+ which uses the m17n library as the backend. 
+ 
+ scim-m17n home: http://scim-im.org/ 
+

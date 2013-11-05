@@ -1,0 +1,8 @@
+
+ lzo (LZO Compression Library) 
+ 
+ LZO is a portable lossless data compression library written in ANSI C. 
+ It offers pretty fast compression and very fast decompression. 
+ 
+ Homepage: http://www.oberhumer.com/opensource/lzo/ 
+

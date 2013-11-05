@@ -1,0 +1,12 @@
+
+ u-boot-tools (Tools for systems using the Das U-Boot Linux Loader) 
+ 
+ This package contains the tools for working with a system that uses 
+ the Das U-Boot Linux loader. This includes the mkimage utility, which 
+ encapsulates a compressed "uImage" Linux kerel image with header 
+ information, CRC32 checksum and so on. mkimage can also be used to 
+ create ramdisk images for use with U-Boot, either separated from the 
+ Linux kernel image, or combined into one file. 
+ 
+ Also included are the tools to read and modify U-Boot's environment. 
+

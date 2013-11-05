@@ -1,0 +1,5 @@
+
+ qca-gnupg (GnuPG plugin for QCA) 
+ 
+ This plugin provides features based on GnuPG. 
+

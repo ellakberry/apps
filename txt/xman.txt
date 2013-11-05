@@ -1,0 +1,20 @@
+pi
+ pixman (pixel manipulation library) pi
+ pi
+ pixman contains low-level pixel manipulation routines and is used by pi
+ both xorg and cairo. pi
+ pi
+ For more information about the X.Org Foundation (the providers of the pi
+ X.Org implementation of the X Window System), see their website: pi
+ pi
+ http://www.x.org pi
+ 
+ xman (graphical manual page browser using the Xaw toolkit) 
+ 
+ xman is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

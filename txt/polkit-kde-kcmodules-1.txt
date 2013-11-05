@@ -1,0 +1,5 @@
+
+ polkit-kde-kcmodules-1 (KDE polkit kcmodules) 
+ 
+ This package contains the kcm_polkit modules for KDE. 
+

@@ -1,0 +1,9 @@
+
+ neon (HTTP and WebDAV client library) 
+ 
+ neon is an HTTP and WebDAV client library, with a C language API. 
+ Bindings for other languages may also be available, see the web site 
+ for more details: http://www.webdav.org/neon/ 
+ 
+ The neon library is used by projects such as subversion. 
+

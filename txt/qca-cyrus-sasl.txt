@@ -1,0 +1,5 @@
+
+ qca-cyrus-sasl (Cyrus SASL plugin for QCA) 
+ 
+ This plugin provides features based on Cyrus SASL version 2. 
+

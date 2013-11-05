@@ -1,0 +1,5 @@
+
+ calligra-l10n-zh_TW 
+ 
+ Chinese language support for Calligra. 
+

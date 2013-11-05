@@ -1,0 +1,8 @@
+
+ kaccessible (Accessibility bridge) 
+ 
+ Kaccessible implements a QAccessibleBridgePlugin to provide 
+ accessibility services like focus tracking and a screenreader. 
+ 
+ For more information, visit: http://www.kde.org 
+

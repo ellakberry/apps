@@ -1,0 +1,7 @@
+
+ trn (a threaded newsreader) 
+ 
+ A threaded news reader for reading a remote NNTP server. Compiled to 
+ use Overviews or mthreads, and to read news through your NNTP server. 
+ Be sure to set NNTPSERVER in your /etc/profile or /etc/csh.login. 
+

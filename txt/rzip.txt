@@ -1,0 +1,18 @@
+l
+ lrzip (Long Range ZIP) l
+ l
+ LRZIP is a file compression program designed to do particularly well l
+ on very large files containing long distance redundancy. The larger l
+ the file and the more memory you have, the better the compression l
+ advantage this will provide. A variety of compression options allow l
+ optimizing for size or speed. l
+ l
+ Homepage: http://ck.kolivas.org/apps/lrzip/ l
+ 
+ rzip (a large-file compression program) 
+ 
+ rzip is a file compression program designed to do particularly well 
+ on very large files containing long distance redundancy. 
+ 
+ rzip was written by Andrew Tridgell. 
+

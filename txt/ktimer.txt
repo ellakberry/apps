@@ -1,0 +1,7 @@
+
+ ktimer (program scheduler) 
+ 
+ KTimer is a little tool to execute programs after some time. 
+ 
+ ktimer's home page is: http://utils.kde.org/projects/ktimer 
+

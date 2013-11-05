@@ -1,0 +1,9 @@
+
+ dcron (Dillon's Cron daemon) 
+ 
+ The cron daemon runs in the background and executes tasks on behalf of 
+ users at the appropriate time. Many timed system tasks are started 
+ with cron, such as the nightly indexing with updatedb. 
+ 
+ dcron was written entirely from scratch by Matthew Dillon. 
+

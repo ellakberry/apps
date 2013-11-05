@@ -1,0 +1,9 @@
+
+ netkit-timed (time server daemon) 
+ 
+ This is an early BSD time server daemon. While ntpd is better for 
+ most purposes, this might be useful for secure networks or embedded 
+ systems in need of something more lightweight. 
+ 
+ The timed daemon appeared in 4.3BSD. 
+

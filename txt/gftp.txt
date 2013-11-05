@@ -1,0 +1,10 @@
+
+ gftp (FTP client for X) 
+ 
+ gFTP is a multithreaded FTP client for X written using GTK+. It 
+ features simultaneous downloads, resuming of interrupted file 
+ transfers, file transfer queues, downloading of entire directories, 
+ ftp proxy support, remote directory caching, passive and non-passive 
+ file transfers, drag-n-drop support, bookmarks menu, stop button, 
+ and many more features. 
+

@@ -1,0 +1,5 @@
+
+ bitmap (X bitmap (XBM) editor and converter utilities) 
+ 
+ The bitmap package includes the bitmap, bmtoa, and atobm programs. 
+

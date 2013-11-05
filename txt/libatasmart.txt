@@ -1,0 +1,11 @@
+
+ libatasmart (ATA S.M.A.R.T. library) 
+ 
+ libatasmart is a lean, small and clean implementation of an ATA 
+ S.M.A.R.T. ((Self-Monitoring, Analysis and Reporting Technology) 
+ reading and parsing library. S.M.A.R.T. is a system used by hard 
+ drives to monitor factors that may impact drive reliability in the 
+ hope of predicting a drive failure before it occurs. 
+ 
+ Homepage: http://0pointer.de/blog/projects/being-smart.html 
+

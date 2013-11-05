@@ -1,0 +1,7 @@
+
+ cdrdao (CD burning utility) 
+ 
+ cdrdao burns proper disc-at-once (DAO) audio discs. In DAO mode the 
+ disc is written in one shot, so you don't have to have irritating 2 
+ second gaps interrupting a live recording. 
+

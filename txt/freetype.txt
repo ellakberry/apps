@@ -1,0 +1,7 @@
+
+ freetype (A Free, High-Quality, and Portable Font Engine) 
+ 
+ The FreeType engine is a free and portable TrueType font rendering 
+ engine. It has been developed to provide TrueType support to a 
+ great variety of platforms and environments. 
+

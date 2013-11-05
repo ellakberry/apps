@@ -1,0 +1,10 @@
+
+ ebtables (Ethernet frame filtering on a Linux bridge) 
+ 
+ The ebtables utility enables basic Ethernet frame filtering on a 
+ Linux bridge, logging, MAC NAT and brouting. It only provides basic 
+ IP filtering, the full-fledged IP filtering on a Linux bridge is 
+ done with iptables. 
+ 
+ Homepage: http://ebtables.sourceforge.net/ 
+

@@ -1,0 +1,10 @@
+
+ tibmachuni-font-ttf (Tibetan Machine Unicode font) 
+ 
+ The Tibetan & Himalayan Digital Library's Unicode character based 
+ "Tibetan Machine Uni" OpenType font for writing Tibetan, Dzongkha and 
+ Ladakhi in dbu can script with full support for the Sanskrit 
+ combinations found in chos-skad texts. 
+ 
+ tibmachuni-font-ttf home: http://thdl.org/ 
+

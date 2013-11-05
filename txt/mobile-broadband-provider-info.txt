@@ -1,0 +1,10 @@
+
+ mobile-broadband-provider-info (service provider settings) 
+ 
+ This package contains mobile broadband settings for service providers 
+ in various countries. 
+ 
+ For more info, see: 
+ 
+ http://live.gnome.org/NetworkManager/MobileBroadband/ServiceProviders 
+

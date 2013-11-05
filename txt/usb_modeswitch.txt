@@ -1,0 +1,12 @@
+
+ usb_modeswitch (mode switching tool for multiple mode USB devices) 
+ 
+ USB-ModeSwitch is (surprise!) a small mode switching tool for 
+ controlling "flip flop" (multiple device) USB gear. These devices 
+ initially appear to be USB storage, typically containing the MS 
+ Windows drivers for whatever the real purpose of the device is, such 
+ as a wireless USB modem. To use these devices with Linux, they need 
+ to be told to switch out of storage mode, which is the purpose of the 
+ USB-ModeSwitch utility. 
+ 
+ Homepage: http://www.draisberghof.de/usb_modeswitch

@@ -1,0 +1,10 @@
+
+ polkit (authentication framework) 
+ 
+ PolicyKit is an application-level toolkit for defining and handling 
+ the policy that allows unprivileged processes to speak to privileged 
+ processes. PolicyKit is specifically targeting applications in rich 
+ desktop environments on multi-user UNIX-like operating systems. 
+ 
+ Home: http://www.freedesktop.org/wiki/Software/PolicyKit 
+

@@ -1,0 +1,9 @@
+
+ phonon-gstreamer (gstreamer backend for phonon) 
+ 
+ This package provides an additional gstreamer backend for the phonon 
+ multimedia framework used in KDE. 
+ 
+ For more information, visit: 
+ https://projects.kde.org/projects/kdesupport/phonon/phonon-gstreamer 
+

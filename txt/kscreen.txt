@@ -1,0 +1,19 @@
+
+ kscreen (KDE screen management) 
+ 
+ KScreen is the new screen management software for KDE Plasma 
+ Workspaces which tries to be as magic and automatic as possible 
+ for users with basic needs and easy to configure for those 
+ who want special setups. 
+ 
+ For more information, visit: 
+ http://community.kde.org/Solid/Projects/ScreenManagement 
+ lib
+ libkscreen (KDE screen management library) lib
+ lib
+ LibKScreen is a library that provides access to current configuration lib
+ of connected displays and ways to change the configuration. lib
+ lib
+ For more information, visit: lib
+ http://community.kde.org/Solid/Projects/ScreenManagement lib
+

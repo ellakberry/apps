@@ -1,0 +1,9 @@
+
+ kmines (minesweeper clone for KDE) 
+ 
+ KMines is the classic Minesweeper game. The idea is to uncover all 
+ the squares without blowing up any mines. When a mine is blown up, 
+ the game is over. 
+ 
+ For more information, visit: http://www.kde.org 
+

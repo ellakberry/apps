@@ -1,0 +1,30 @@
+
+ acct (process accounting utilities) 
+ 
+ This is a set of utilities which reports and summarizes data about 
+ user connect times and process execution statistics. To activate 
+ process accounting, create the log file (touch /var/log/pacct), and 
+ then use the accton command to start it (accton /var/log/pacct). 
+ Be aware that the log file can grow to be quite large. 
+ 
+ The GNU process accounting utilities were written by Noel Cragg and 
+ the software is currently maintained by Ciaran O'Riordan, 
+ Manuel A. Fernandez Montecelo, and Tim Schmielau. libnetfilter_
+ libnetfilter_acct (userspace library for netfilter accounting) libnetfilter_
+ libnetfilter_
+ libnetfilter_acct is the userspace library providing interface libnetfilter_
+ to extended accounting infrastructure. libnetfilter_
+ libnetfilter_
+ libnetfilter_acct is used by nfacct. libnetfilter_
+ nf
+ nfacct (tool to create/retrieve/delete accounting objects) nf
+ nf
+ nfacct is the command line tool to create/retrieve/delete accounting nf
+ objects. nf
+ nf
+ The main features of nfacct are: nf
+ - listing the objects of the nfacct table in plain text/XML nf
+ - atomically get and reset objects of the nfacct table nf
+ - adding new objects to the nfacct table nf
+ - deleting objects from the nfacct table nf
+

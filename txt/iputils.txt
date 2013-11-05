@@ -1,0 +1,10 @@
+
+ iputils (a collection of common network tools) 
+ 
+ The iputils package contains network tools found on nearly all *NIX 
+ systems, along with an extra or two. Some of the utilities found 
+ here include arping, clockdiff, ping, ping6, rarpd, rdisc, tracepath, 
+ tracepath6, and traceroute6. 
+ 
+ iputils is maintained by YOSHIFUJI Hideaki. 
+

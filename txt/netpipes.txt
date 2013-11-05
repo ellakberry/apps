@@ -1,0 +1,12 @@
+
+ netpipes (TCP/IP pipe utilities) 
+ 
+ Robert Forsman's netpipes package makes TCP/IP streams usable in shell 
+ scripts. It can also simplify client/server code by allowing the 
+ programmer to skip all the tedious programming bits related to sockets 
+ and concentrate on writing a filter/service. Here's an example of 
+ what you can do with 'faucet' and 'hose', two netpipes commands: 
+ 
+ server$ faucet 3000 -out tar cf - . 
+ client$ hose server 3000 -in tar xvf - 
+

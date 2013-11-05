@@ -1,0 +1,12 @@
+
+ libjpeg (Independent JPEG Group's JPEG software) 
+ 
+ Software to implement JPEG image compression and decompression. JPEG 
+ (pronounced 'jay-peg') is a standardized compression method for 
+ full-color and gray-scale images. JPEG is intended for compressing 
+ 'real-world' scenes; cartoons and other non-realistic images are not 
+ its strong suit. JPEG is lossy, however, on typical images of 
+ real-world scenes, very good compression levels can be obtained with 
+ no visible change, and amazingly high compression levels are possible 
+ if you can tolerate a low-quality image. 
+

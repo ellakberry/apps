@@ -1,0 +1,16 @@
+
+ ark (KDE archiver tool) 
+ 
+ This is KDE's application to work with compressed archives. 
+ 
+ Ark's home page is: http://kde.org 
+ xf86-video-
+ xf86-video-ark (Ark Logic video driver for Xorg X server) xf86-video-
+ xf86-video-
+ xf86-video-ark is part of X11. xf86-video-
+ xf86-video-
+ For more information about the X.Org Foundation (the providers of the xf86-video-
+ X.Org implementation of the X Window System), see their website: xf86-video-
+ xf86-video-
+ http://www.x.org xf86-video-
+

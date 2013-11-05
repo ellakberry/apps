@@ -1,0 +1,8 @@
+
+ xmodmap (X11 keyboard utility) 
+ 
+ The xmodmap program is used to edit and display the keyboard modifier 
+ map and keymap table that are used by client applications to convert 
+ event keycodes into keysyms. It is usually run from a user's session 
+ startup script to configure the keyboard according to personal tastes. 
+

@@ -1,0 +1,12 @@
+
+ kate (an advanced text editor for KDE) 
+ 
+ The Kate project develops two main products: 
+ KatePart, the advanced editor component which is used in numerous KDE 
+ applications requiring a text editing component, and Kate, a MDI text 
+ editor application. In addition, we provide KWrite, a simple SDI 
+ editor shell which allows the user to select his/her favorite editor 
+ component. 
+ 
+ Homepage: http://kate-editor.org 
+

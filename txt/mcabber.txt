@@ -1,0 +1,10 @@
+
+ mcabber (Jabber console client) 
+ 
+ mcabber is a small Jabber console client for Linux, maintained by 
+ Mikael Berthe. Mcabber includes features such as SSL support, 
+ multi-user chat (MUC), history logging, commands completion, and 
+ external actions triggers. 
+ 
+ mcabber project home is: http://www.lilotux.net/~mikael/mcabber/ 
+

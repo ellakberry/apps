@@ -1,0 +1,7 @@
+
+ fribidi (Unicode BiDirectional algorithm library) 
+ 
+ This library implements the Unicode BiDirectional algorithm, which 
+ is needed in order to support right-to-left languages such as Arabic 
+ and Hebrew. It is used in display software like KDE's SVG modules. 
+

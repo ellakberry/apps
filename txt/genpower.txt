@@ -1,0 +1,10 @@
+
+ genpower (UPS monitoring daemon) 
+ 
+ The genpower daemon, genpowerd, will monitor the status of a serial 
+ line connected to a UPS (Uninterruptible Power Supply). If a power 
+ failure is detected, genpowerd will notify the system to take the 
+ needed steps to react to the condition of the UPS. This may include 
+ shutting the system down, or canceling a pending shutdown if the 
+ power is restored. 
+

@@ -1,0 +1,9 @@
+
+ ksquares (connect the dots to create squares) 
+ 
+ KSquares is a fun and exciting game for desktop environment. 
+ The game is modeled after the well known pen and paper based 
+ game of Dots and Boxes. 
+ 
+ For more information, visit: http://www.kde.org 
+

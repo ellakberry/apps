@@ -1,0 +1,5 @@
+
+ calligra-l10n-cs 
+ 
+ Czech language support for Calligra. 
+

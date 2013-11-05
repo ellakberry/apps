@@ -1,0 +1,8 @@
+
+ wicd-kde (Wicd client built on the KDE Development Platform) 
+ 
+ A Wicd client built on the KDE Development Platform. 
+ 
+ For more information, visit: 
+ https://projects.kde.org/projects/extragear/network/wicd-kde 
+

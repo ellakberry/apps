@@ -1,0 +1,23 @@
+kde-run
+ kde-runtime (KDE runtime core) kde-run
+ kde-run
+ This package contains core components of the KDE base runtime module. kde-run
+ kdepim-run
+ kdepim-runtime (KDE Personal Information Management runtime) kdepim-run
+ kdepim-run
+ The KDE-PIM project aims to bring together those who wish to help kdepim-run
+ design, implement, test, etc. anything that's to do with personal kdepim-run
+ information management. kdepim-run
+ kdepim-run
+ This rather broad scope encompasses mail clients, addressbooks, kdepim-run
+ usenet news, scheduling, and even sticky notes. kdepim-run
+ 
+ time (the GNU time command for measuring program resource use) 
+ 
+ The `time' command runs another program, then displays information 
+ about the resources used by that program, collected by the system 
+ while the program was running. 
+ 
+ GNU time was originally written by David Keppel, with later versions 
+ worked on by David MacKenzie, Arne Henrik Juul, and Francois Pinard. 
+

@@ -1,0 +1,10 @@
+
+ irssi (Internet Relay Chat client) 
+ 
+ Irssi is an Internet Relay Chat client. Designed to be both secure 
+ and expandable, irssi is easily customized using modules and scripts. 
+ 
+ For more information, visit: http://irssi.org 
+ 
+ irssi was written by Timo Sirainen. 
+

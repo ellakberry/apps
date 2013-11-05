@@ -1,0 +1,8 @@
+
+ libmsn (implementation of the MSN Messenger service protocol) 
+ 
+ Libmsn is a reusable, open-source, fully documented library for 
+ connecting to Microsoft's MSN Messenger service. 
+ 
+ Homepage: http://sourceforge.net/projects/libmsn/ 
+

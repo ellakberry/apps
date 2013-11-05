@@ -1,0 +1,8 @@
+
+ libkmahjongg (library for rendering of Mahjongg tilesets) 
+ 
+ libkmahjongg is a library used by several KDE games for loading 
+ and rendering of Mahjongg tilesets. 
+ 
+ For more information, visit: http://www.kde.org 
+

@@ -1,0 +1,11 @@
+at-spi2-
+ at-spi2-atk (AT-SPI2 bridge to ATK) at-spi2-
+ at-spi2-
+ The At-Spi2 Atk package contains a library that bridges ATK to the at-spi2-
+ At-Spi2 D-Bus service. at-spi2-
+ 
+ atk (accessibility functions library) 
+ 
+ atk is a library of accessibility functions that is used by the 
+ GTK+-2 toolkit. 
+

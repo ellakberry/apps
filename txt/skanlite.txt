@@ -1,0 +1,5 @@
+
+ skanlite (a scanning program) 
+ 
+ Skanlite is a light-weight scanning application based on libksane. 
+

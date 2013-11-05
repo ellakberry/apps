@@ -1,0 +1,10 @@
+
+ cpio (backup and archiving utility) 
+ 
+ This is GNU cpio, a program to manage archives of files. This package 
+ also includes mt, a tape drive control program. cpio copies files into 
+ or out of a cpio or tar archive, which is a file that contains other 
+ files plus information about them, such as their pathname, owner, 
+ timestamps, and access permissions. The archive can be another file on 
+ the disk, a magnetic tape, or a pipe. 
+

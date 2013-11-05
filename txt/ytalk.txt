@@ -1,0 +1,7 @@
+
+ ytalk (multi-user chat program) 
+ 
+ YTalk is a multi-user chat program. It works almost exactly like the 
+ UNIX talk program and even communicates with the same talk daemon, but 
+ YTalk allows for multiple connections. 
+

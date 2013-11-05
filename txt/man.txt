@@ -1,0 +1,65 @@
+blue
+ Blueman (Graphical Bluetooth Manager) blue
+ blue
+ Blueman is a GTK+ Bluetooth Manager for tasks such as: blue
+ blue
+ - Connecting to 3G/EDGE/GPRS via DUN profile. blue
+ - Connecting to/Creating bluetooth networks blue
+ - Connecting to input and audio devices blue
+ - Sending/Receiving/Browsing files via OBEX blue
+ - Pairing blue
+ blue
+ Homepage: http://blueman-project.org help2
+ help2man (automatic man page generator) help2
+ help2
+ help2man is a tool for automatically generating simple manual pages help2
+ from program output. help2
+ help2
+ Homepage: http://www.gnu.org/software/help2man help2
+ kap
+ kapman (KDE version of Pac-Man) kap
+ kap
+ Kapman is a clone of the well known game Pac-Man. kap
+ You must run through the maze to eat all pills without being captured kap
+ by a ghost. By eating an energizer, Kapman gets the ability to eat kap
+ ghosts for a few seconds. When a stage is cleared of pills and kap
+ energizer the player is taken to the next stage with slightly kap
+ increased game speed. kap
+ kap
+ For more information, visit: http://www.kde.org kap
+ 
+ man (format and display the on-line manual pages) 
+ 
+ The man package is a collection of tools used for searching and 
+ reading the online system documentation. In fact, on most UNIX-like 
+ operating systems it is the primary means of finding out how programs 
+ on the system work. For example, 'man man' will display the 
+ documentation for man itself. 
+ 
+ Man requires the groff text processing package. 
+ pix
+ pixman (pixel manipulation library) pix
+ pix
+ pixman contains low-level pixel manipulation routines and is used by pix
+ both xorg and cairo. pix
+ pix
+ For more information about the X.Org Foundation (the providers of the pix
+ X.Org implementation of the X Window System), see their website: pix
+ pix
+ http://www.x.org pix
+ thunar-vol
+ thunar-volman (Thunar Volume Manager Plugin) thunar-vol
+ thunar-vol
+ thunar-volman is an extension for the Thunar File Manager, thunar-vol
+ which enables automatic management of removable drives and thunar-vol
+ media. thunar-vol
+ x
+ xman (graphical manual page browser using the Xaw toolkit) x
+ x
+ xman is part of X11. x
+ x
+ For more information about the X.Org Foundation (the providers of the x
+ X.Org implementation of the X Window System), see their website: x
+ x
+ http://www.x.org x
+

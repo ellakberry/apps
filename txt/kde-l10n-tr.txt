@@ -1,0 +1,5 @@
+
+ kde-l10n-tr 
+ 
+ Turkish language support for KDE. 
+

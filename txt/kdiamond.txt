@@ -1,0 +1,8 @@
+
+ kdiamond (three-in-a-row game for KDE) 
+ 
+ KDiamond is a single player puzzle game. The object of the game is 
+ to build and remove lines of three similar diamonds. 
+ 
+ For more information, visit: http://www.kde.org 
+

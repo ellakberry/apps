@@ -1,0 +1,7 @@
+
+ bin (some command-line utilities) 
+ 
+ The bin package is a collection of miscellaneous command-line 
+ utilities. Some of these (such as 'tempfile') are used in system 
+ scripts. 
+

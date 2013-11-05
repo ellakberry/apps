@@ -1,0 +1,28 @@
+
+ gd (a graphics library) 
+ 
+ gd is a graphics library. It allows your code to quickly draw images 
+ complete with lines, arcs, text, multiple colors, cut and paste from 
+ other images, and flood fills, and write out the result as a PNG or 
+ JPEG file. This is particularly useful in web applications, where 
+ PNG and JPEG are two of the formats accepted for inline images by 
+ most browsers. 
+ 
+ The gd library was written by Thomas Boutell. 
+ sysklo
+ sysklogd (Linux system logging utilities) sysklo
+ sysklo
+ Dr. Greg Wettstein and Stephen Tweedie's syslogd/klogd. sysklo
+ sysklo
+ This package contains a modified version of syslogd for the Linux sysklo
+ environment. An additional utility, klogd, is included which allows sysklo
+ kernel logging to be directed through the syslogd facility. sysklo
+ Syslogd and klogd are started when your system boots. sysklo
+ ulo
+ ulogd (Userspace Logging Daemon) ulo
+ ulo
+ ulogd is a userspace logging daemon for netfilter/iptables related ulo
+ logging. This includes per-packet logging of security violations, ulo
+ per-packet logging for accounting, per-flow logging and flexible ulo
+ user-defined accounting. ulo
+

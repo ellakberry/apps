@@ -1,0 +1,11 @@
+
+ glibc-zoneinfo (timezone database) 
+ 
+ This package allows you to configure your time zone. 
+ 
+ This timezone database comes from the tzdata and tzcode packages by 
+ Arthur David Olson et.al. The latest version and more information 
+ may be found at: http://www.iana.org/time-zones 
+ 
+ Use the timeconfig utility to set your local time zone. 
+

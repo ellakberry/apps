@@ -1,0 +1,5 @@
+
+ gnome-icon-theme (default icons used by GTK+) 
+ 
+ A set of default icons used by many GTK+ applications. 
+

@@ -1,0 +1,10 @@
+
+ knavalbattle (KDE version of battleship game) 
+ 
+ KNavalBattle is a battleship game with built-in game server. 
+ Ships are placed on a board which represents the sea. Players try 
+ to hit each others ships in turns without knowing where they are 
+ placed. The first player to destroy all ships wins the game. 
+ 
+ For more information, visit: http://www.kde.org 
+

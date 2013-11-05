@@ -1,0 +1,11 @@
+
+ xinput (utility to configure and test X11 input devices) 
+ 
+ xinput is a utility to configure and test XInput devices. It wasn't 
+ originally designed to be the primary tool for doing this but it's 
+ still pretty much the only program out there for doing it. :-) 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ http://www.x.org 
+

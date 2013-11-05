@@ -1,0 +1,11 @@
+
+ cyrus-sasl (Simple Authentication and Security Layer) 
+ 
+ This is the Cyrus SASL library. Cyrus SASL is used by mail programs 
+ on the client or server side to provide authentication and 
+ authorization services. See RFC 2222 for more information. 
+ qca-
+ qca-cyrus-sasl (Cyrus SASL plugin for QCA) qca-
+ qca-
+ This plugin provides features based on Cyrus SASL version 2. qca-
+

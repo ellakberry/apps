@@ -1,0 +1,7 @@
+
+ lcms (little cms engine) 
+ 
+ Little cms is a small, speed optimized color management engine. 
+ 
+ lcms was written by Marti Maria <marti@littlecms.com>. 
+

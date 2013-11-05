@@ -1,0 +1,7 @@
+
+ expat (C library for parsing XML) 
+ 
+ This is Expat, a C library for parsing XML, written by James Clark. 
+ Expat is a stream-oriented XML parser used by Python, GNOME, Xft2, 
+ and other things. 
+

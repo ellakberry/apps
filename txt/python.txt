@@ -1,0 +1,21 @@
+dbus-
+ dbus-python (Python bindings for dbus) dbus-
+ dbus-
+ This package includes python bindings for the D-Bus messagebus. dbus-
+ notify-
+ notify-python (Python bindings for libnotify) notify-
+ notify-
+ The notify-python package contains bindings to use libnotify with notify-
+ Python programs. notify-
+ notify-
+ Homepage for notify-
+ http://www.galago-project.org/ notify-
+ 
+ python (object-oriented interpreted programming language) 
+ 
+ Python is an interpreted, interactive, object-oriented programming 
+ language that combines remarkable power with very clear syntax. 
+ Python's basic power can be extended with your own modules written in 
+ C or C++. Python is also adaptable as an extension language for 
+ existing applications. 
+

@@ -1,0 +1,11 @@
+
+ snownews (a console RSS newsreader) 
+ 
+ Snownews is a console RSS/RDF news reader. It supports all versions 
+ of RSS natively and can be expanded via plugins to support many other 
+ other formats. 
+ 
+ Snownews was written and is maintained by Oliver Feiler. 
+ 
+ Snownews homepage: http://kiza.kcore.de/software/snownews 
+

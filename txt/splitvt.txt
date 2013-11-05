@@ -1,0 +1,8 @@
+
+ splitvt (run multiple shells in a single window) 
+ 
+ This program splits the screen into two windows, one above the other, 
+ and runs a shell in each one. 
+ 
+ Splitvt was written by Sam Lantinga. 
+

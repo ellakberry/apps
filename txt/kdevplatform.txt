@@ -1,0 +1,5 @@
+
+ kdevplatform (KDE development platform) 
+ 
+ This KDE module provides libraries used by kdevelop. 
+

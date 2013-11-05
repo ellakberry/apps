@@ -1,0 +1,10 @@
+
+ ethtool (a tool for examining and tuning a network interface) 
+ 
+ ethtool is a small utility for examining and tuning your Ethernet 
+ based network interface. For more details, see "man ethtool". 
+ 
+ ethtool was written by David Miller, with help from Jakub Jelinek, 
+ Jeff Garzik, Tim Hockin, Eli Kupermann, Chris Leech, Scott Feldman, 
+ and Andi Kleen. 
+

@@ -1,0 +1,12 @@
+
+ ttf-indic-fonts (Fonts for Indic scripts) 
+ 
+ This is a collection of free fonts that support some of the more 
+ widely used Indic scripts. Included are TTF fonts for Bengali, 
+ Devanagari, Gujarati, Kannada, Malayalam, Oriya, Punjabi, Tamil, 
+ and Telugu. 
+ 
+ For more information about enabling full Indic support (this package 
+ will enable display, but probably not input), see the 
+ Indic-Fonts-HOWTO which can be found in /usr/doc/Linux-HOWTOs. 
+

@@ -1,0 +1,7 @@
+
+ xfwm4 (Xfce Window Manager) 
+ 
+ This package contains xfwm4 which is the window manager for Xfce4. 
+ It is designed to run with the rest of Xfce, but it also makes a 
+ capable window manager for any X11 environment. 
+

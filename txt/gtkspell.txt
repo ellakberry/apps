@@ -1,0 +1,7 @@
+
+ gtkspell (GTK2 spell checker interface library) 
+ 
+ GtkSpell provides MSWord/MacOSX-style highlighting of misspelled words 
+ in a GtkTextView widget. Right-clicking a misspelled word pops up a 
+ menu of suggested replacements. 
+

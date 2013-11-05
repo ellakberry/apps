@@ -1,0 +1,7 @@
+
+ libkcddb (KDE CDDB retrieval library) 
+ 
+ A KDE CDDB retrieval library. 
+ 
+ For more information, visit: http://www.kde.org 
+

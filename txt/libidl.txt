@@ -1,0 +1,9 @@
+
+ libIDL (IDL library) 
+ 
+ libIDL is a library licensed under the GNU LGPL for creating trees of 
+ CORBA Interface Definition Language (IDL) files, which is a 
+ specification for defining portable interfaces. 
+ 
+ libIDL is used by SeaMonkey and the Mozilla Suite. 
+

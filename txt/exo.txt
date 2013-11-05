@@ -1,0 +1,11 @@
+
+ exo (libexo extension library) 
+ 
+ This is libexo, an extension library to Xfce, developed by 
+ os-cillation. While Xfce comes with quite a few libraries that are 
+ targeted at desktop development, libexo is targeted at application 
+ development. It also has some helper applications that are used 
+ throughout the entire desktop. 
+ 
+ 
+

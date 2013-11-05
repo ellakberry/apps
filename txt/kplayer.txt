@@ -1,0 +1,12 @@
+
+ kplayer (KDE media player) 
+ 
+ KPlayer is a KDE multimedia player. With KPlayer you can easily play 
+ a wide variety of video and audio files and streams using a rich and 
+ friendly interface that follows KDE standards. 
+ KPlayer will work out of the box if properly installed, and because 
+ it uses MPlayer as the media playing backend, it will play virtually 
+ any file or Internet stream. 
+ 
+ For more information, visit: http://www.kde.org 
+

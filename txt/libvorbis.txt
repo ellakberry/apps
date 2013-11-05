@@ -1,0 +1,12 @@
+
+ libvorbis (Ogg Vorbis library) 
+ 
+ This library supports the Vorbis General Audio Compression Codec 
+ (commonly known as Ogg Vorbis). Ogg Vorbis is a fully open, 
+ non-proprietary, patent-and-royalty-free, general-purpose compressed 
+ audio format for audio and music at fixed and variable bitrates. 
+ 
+ The libvorbis library requires libao and libogg. You'll find some 
+ basic tools for creating and using Ogg Vorbis files in the 
+ vorbis-tools package. 
+

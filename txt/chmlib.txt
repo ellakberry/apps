@@ -1,0 +1,11 @@
+
+ chmlib (library for accessing CHM files) 
+ 
+ chmlib is a small library designed for accessing MS ITSS files. 
+ The ITSS file format is used for Microsoft Html Help files (.chm), 
+ which have been the predominant medium for software documentation 
+ from Microsoft during the past several years, having superseded 
+ the previously used .hlp file format. 
+ 
+ Homepage: http://www.jedrea.com/chmlib/ 
+

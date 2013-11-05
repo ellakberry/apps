@@ -1,0 +1,8 @@
+
+ ConsoleKit (user, login, and seat tracking framework) 
+ 
+ ConsoleKit is a framework for defining and tracking users, login 
+ sessions, and seats. 
+ 
+ Homepage: http://freedesktop.org/wiki/Software/ConsoleKit 
+

@@ -1,0 +1,8 @@
+
+ phonon-mplayer (mplayer backend for phonon) 
+ 
+ This package provides an additional mplayer backend for the phonon 
+ multimedia framework used in KDE. 
+ 
+ Home: http://code.google.com/p/phonon-vlc-mplayer/ 
+

@@ -1,0 +1,10 @@
+
+ xf86-input-aiptek (Aiptek USB Digital Tablet Input Driver for Linux) 
+ 
+ xf86-input-aiptek is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

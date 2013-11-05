@@ -1,0 +1,12 @@
+
+ getty-ps (console or terminal login) 
+ 
+ /sbin/getty and /sbin/uugetty. 
+ These control the process of logging into your system, and may be used 
+ instead of 'agetty', which is the default getty included with the 
+ util-linux package. getty-ps supports a number of enhancements such as 
+ ringback support. 
+ 
+ getty-ps was originally written by Paul Sutcliffe, Jr, and is 
+ currently maintained by Christine Jamison. 
+

@@ -1,0 +1,9 @@
+
+ bootp (BOOTP server) 
+ 
+ This is an enhanced version of the CMU BOOTP server which was derived 
+ from the original BOOTP server created by Bill Croft at Stanford. 
+ BOOTP allows a network administrator to setup networking information 
+ for clients via an /etc/bootptab on a server so that the clients can 
+ automatically get their networking information. 
+

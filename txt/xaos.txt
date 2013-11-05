@@ -1,0 +1,11 @@
+
+ xaos (an interactive fractal zoomer) 
+ 
+ XaoS is a fast portable real-time interactive fractal zoomer. It 
+ displays the Mandelbrot set (and other popular fractals), and allows 
+ the user to smoothly zoom in or out of a fractal. Other features 
+ include autopilot mode, palette changing, PNG saving, and fractal 
+ inversion. 
+ 
+ Visit XaoS online: http://xaos.sf.net 
+

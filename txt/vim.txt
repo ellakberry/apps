@@ -1,0 +1,23 @@
+
+ vim (Vi IMproved) 
+ 
+ Vim is an almost compatible version of the UNIX editor vi. Many new 
+ features have been added: multi level undo, command line history, 
+ filename completion, block operations, and more. 
+ 
+ Vim's development is led by Bram Moolenaar. 
+ 
+ This package also contains the Exuberant Ctags program 
+ written by Darren Hiebert. 
+ vim-g
+ vim-gvim (gvim, the X/GTK2 enabled version of vim) vim-g
+ vim-g
+ Gvim is a graphical version of vim. Vim is an almost compatible vim-g
+ version of the UNIX editor vi. Many new features have been added, vim-g
+ such as multi level undo, command line history, filename completion, vim-g
+ block operations, and more. vim-g
+ vim-g
+ The main vim package in the AP series is required to use this package. vim-g
+ vim-g
+ Vim's development is led by Bram Moolenaar. vim-g
+

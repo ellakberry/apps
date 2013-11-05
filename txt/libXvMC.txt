@@ -1,0 +1,10 @@
+
+ libXvMC (X.Org X11 libXvMC runtime library) 
+ 
+ libXvMC is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

@@ -1,0 +1,12 @@
+
+ ipw2200-fw (Intel ipw2200 wireless firmware) 
+ 
+ This firmware is used by the ipw2200 kernel module for the Intel 
+ PRO/Wireless 2915ABG Network Connection and Intel PRO/Wireless 2200BG 
+ Network Connection mini PCI adapters. 
+ Your use of this firmware is governed by this Intel license: 
+ /usr/doc/ipw2200-fw-3.1/LICENSE 
+ 
+ Visit Intel's Linux wireless website at this address: 
+ http://intellinuxwireless.org/ 
+

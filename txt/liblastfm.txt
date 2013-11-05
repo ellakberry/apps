@@ -1,0 +1,5 @@
+
+ liblastfm (last fm library) 
+ 
+ The last.fm audio scrobbling service library. 
+

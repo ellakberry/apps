@@ -1,0 +1,6 @@
+
+ kde-workspace (KDE Plasma Desktop) 
+ 
+ This package provides the essential parts of the KDE Plasma Desktop 
+ that are presented to the user. 
+

@@ -1,0 +1,6 @@
+
+ xrandr (X11 RandR utility) 
+ 
+ Primitive command line interface to X11 Resize, Rotate, and Reflect 
+ (RandR) extension 
+

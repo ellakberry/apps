@@ -1,0 +1,12 @@
+
+ sendmail-cf (configuration files for sendmail) 
+ 
+ These files are used to create sendmail.cf configuration files. The 
+ m4 macro processor is also required in order to make use of these 
+ files. 
+ 
+ The files and documentation in /usr/share/sendmail should make it 
+ possible to support virtually any mail configuration. NOTE: You 
+ probably won't need this package if you're planning to use one of the 
+ sendmail.cf samples included in the sendmail package. 
+

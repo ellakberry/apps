@@ -1,0 +1,11 @@
+
+ bzip2 (a block-sorting file compressor) 
+ 
+ Bzip2 compresses files using the Burrows-Wheeler block sorting text 
+ compression algorithm, and Huffman coding. Compression is generally 
+ considerably better than that achieved by more conventional LZ77/LZ78- 
+ based compressors, and approaches the performance of the PPM family of 
+ statistical compressors. 
+ 
+ Julian Seward <jseward@acm.org> is the author of bzip2. 
+

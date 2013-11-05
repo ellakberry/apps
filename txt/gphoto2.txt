@@ -1,0 +1,15 @@
+
+ gphoto2 (A command-line frontend to libgphoto2) 
+ 
+ libgphoto2 is a cross-platform digital camera library, and gphoto2 is 
+ a command-line client for it. 
+ 
+ Visit the gphoto project online: http://www.gphoto.org 
+ lib
+ libgphoto2 (Digital Camera Library) lib
+ lib
+ libgphoto2 is a library that can be used by applications to access lib
+ various digital cameras. lib
+ lib
+ Homepage: http://www.gphoto.org/ lib
+

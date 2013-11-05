@@ -1,0 +1,7 @@
+
+ x3270 (IBM host access tool for X) 
+ 
+ x3270 opens a telnet connection to an IBM host in an X window. Since 
+ the window created by x3270 can use its own font for displaying 
+ characters, is a fairly accurate representation of an IBM 3278. 
+

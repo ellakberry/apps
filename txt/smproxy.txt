@@ -1,0 +1,6 @@
+
+ smproxy (X11 session management proxy) 
+ 
+ smproxy allows X applications that do not support X11R6 session 
+ management to participate in an X11R6 session. 
+

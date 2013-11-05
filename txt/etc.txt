@@ -1,0 +1,6 @@
+
+ etc (system configuration files) 
+ 
+ System configuration files. The /etc directory is traditionally the 
+ location where configuration files are found. 
+

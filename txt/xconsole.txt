@@ -1,0 +1,6 @@
+
+ xconsole (X11 console) 
+ 
+ xconsole displays in a X11 window the messages which are usually sent 
+ to /dev/console 
+

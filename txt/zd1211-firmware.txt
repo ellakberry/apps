@@ -1,0 +1,12 @@
+
+ zd1211-firmware (Firmware for zd1211 USB wireless) 
+ 
+ This distribution contains the firmware files for the ZD1211 chip, 
+ which is used in WLAN USB sticks. The files are generated from C 
+ header files distributed in the original ZyDAS ZD1211 driver. The 
+ GPL-licensed header files used to produce the firmware blobs are also 
+ present in this distribution. 
+ 
+ The full source of the original ZYDAS driver is available from 
+ http://zd1211.wiki.sourceforge.net/VendorDriver 
+

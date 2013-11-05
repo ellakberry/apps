@@ -1,0 +1,5 @@
+
+ kde-l10n-nn 
+ 
+ Norwegian (Nynorsk) language support for KDE. 
+

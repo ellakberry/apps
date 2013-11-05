@@ -1,0 +1,9 @@
+
+ infozip (Info-ZIP's zip and unzip utilities) 
+ 
+ zip is a compression and file packaging utility for Unix, VMS, MSDOS, 
+ OS/2, Windows NT, Minix, Atari and Macintosh, Amiga and Acorn RISC OS. 
+ It is analogous to a combination of the UNIX commands tar(1) and 
+ compress(1) and is compatible with PKZIP (Phil Katz's ZIP). A 
+ companion program (unzip(1L)), unpacks zip archives. 
+

@@ -1,0 +1,8 @@
+
+ libglade (GLADE library) 
+ 
+ The GLADE library allows loading user interfaces which are stored 
+ externally into a program. This allows the interface to be changed 
+ without recompiling the program. The interfaces can also be edited 
+ with GLADE. 
+

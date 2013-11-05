@@ -1,0 +1,19 @@
+libX
+ libXxf86dga (client library for the XFree86-DGA extension) libX
+ libX
+ libXxf86dga is part of X11. libX
+ libX
+ For more information about the X.Org Foundation (the providers of the libX
+ X.Org implementation of the X Window System), see their website: libX
+ libX
+ http://www.x.org libX
+ 
+ xf86dga (simple test client for the XFree86-DGA extension) 
+ 
+ xf86dga is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

@@ -1,0 +1,10 @@
+
+ eject (a tool to eject removable media) 
+ 
+ Eject allows removable media (typically a DVD, CD, floppy disk, tape, 
+ etc.) to be ejected under software control. The command can also 
+ control some multi-disc changers, the auto-eject feature supported by 
+ some devices, and can close the disc tray of some drives. 
+ 
+ The 'eject' program was written by Jeff Tranter. 
+

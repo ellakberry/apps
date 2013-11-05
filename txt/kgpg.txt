@@ -1,0 +1,7 @@
+
+ kgpg (KDE GUI for GnuPG) 
+ 
+ KGpg is a simple interface for GnuPG, a powerful encryption utility. 
+ 
+ kgpg's home page is: http://utils.kde.org/projects/kgpg 
+

@@ -1,0 +1,5 @@
+
+ kde-l10n-mr 
+ 
+ Marathi language support for KDE. 
+

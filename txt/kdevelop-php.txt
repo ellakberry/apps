@@ -1,0 +1,5 @@
+
+ kdevelop-php (PHP language plugin for KDevelop) 
+ 
+ This is a KDevelop plugin that provides support for the PHP language. 
+

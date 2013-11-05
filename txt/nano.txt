@@ -1,0 +1,10 @@
+
+ nano (Nano's ANOther editor, an enhanced free Pico clone) 
+ 
+ nano is a small, free, and friendly editor from the GNU project. It 
+ aims to copy Pico's look and feel while providing additional (or 
+ disabled by default) features that are missing from Pico, such as 
+ "search and replace" or "go to line and column number". 
+ 
+ Chris Allegretta is Nano's author. 
+

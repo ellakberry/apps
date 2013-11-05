@@ -1,0 +1,7 @@
+
+ libidn (GNU Internationalized Domain Name library) 
+ 
+ GNU Libidn is an implementation of the Stringprep, Punycode and IDNA 
+ specifications defined by the IETF Internationalized Domain Names 
+ (IDN) working group, used for internationalized domain names. 
+

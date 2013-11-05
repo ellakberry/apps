@@ -1,0 +1,7 @@
+
+ xinit (scripts to start X11 servers) 
+ 
+ xinit is not intended for naive users. Instead, site administrators 
+ should design user-friendly scripts that present the desired interface 
+ when starting up X. The startx script is one such example. 
+

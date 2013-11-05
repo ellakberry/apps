@@ -1,0 +1,12 @@
+
+ kmod (kernel module tools and library) 
+ 
+ kmod is a set of tools to handle common tasks with Linux kernel 
+ modules like insert, remove, list, check properties, resolve 
+ dependencies and aliases. The aim is to be compatible with the tools, 
+ configurations and indexes from the module-init-tools project. 
+ 
+ These tools are designed on top of libkmod, a library that is 
+ shipped with kmod. 
+ 
+ Project home: ftp://ftp.kernel.org/pub/linux/utils/kernel/kmod/

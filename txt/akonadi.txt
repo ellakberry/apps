@@ -1,0 +1,10 @@
+
+ akonadi (PIM storage service) 
+ 
+ akonadi is an extensible cross-desktop storage service for PIM data 
+ and meta data providing concurrent read, write, and query access. 
+ It will provide a unique desktop wide object identification and 
+ retrieval. 
+ 
+ Homepage: http://www.kdepim.org/akonadi/ 
+

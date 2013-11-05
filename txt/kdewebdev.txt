@@ -1,0 +1,6 @@
+
+ kdewebdev (web development package for the KDE Platform) 
+ 
+ The kdewebdev package contains applications which are useful for 
+ web development. 
+

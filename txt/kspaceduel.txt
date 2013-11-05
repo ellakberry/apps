@@ -1,0 +1,9 @@
+
+ kspaceduel (space arcade game) 
+ 
+ In KSpaceduel each of two possible players controls a satellite 
+ spaceship orbiting the sun. As the game progresses players have to 
+ eliminate opponent's spacecraft. 
+ 
+ For more information, visit: http://www.kde.org 
+

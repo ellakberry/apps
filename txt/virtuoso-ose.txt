@@ -1,0 +1,9 @@
+
+ virtuoso-ose (A high-performance object-relational SQL database) 
+ 
+ Virtuoso is a scalable cross-platform server that combines 
+ SQL/RDF/XML Data Management with Web Application Server 
+ and Web Services Platform functionality. 
+ 
+ Homepage: http://virtuoso.openlinksw.com/wiki/main/ 
+

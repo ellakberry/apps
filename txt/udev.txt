@@ -1,0 +1,11 @@
+
+ udev (dynamic device directory system) 
+ 
+ udev provides a dynamic device directory containing only the files 
+ for the devices which are actually present. It creates or removes 
+ device node files usually located in the /dev directory. 
+ 
+ udev requires a 2.6 or newer kernel. 
+ 
+ Kay Sievers is the udev maintainer. 
+

@@ -1,0 +1,7 @@
+
+ xf86-video-fbdev (X.Org generic framebuffer video driver) 
+ 
+ xf86-video-fbdev is the generic framebuffer video driver for X.Org, 
+ designed to draw into a video framebuffer provided by the 
+ underlying operating system. 
+

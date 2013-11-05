@@ -1,0 +1,8 @@
+
+ devs (system device files) 
+ 
+ This package creates special files in the /dev directory that 
+ represent your system's hardware, and a tool (/dev/MAKEDEV) for 
+ creating new device files. These files are required to access 
+ hardware on a Linux system. 
+

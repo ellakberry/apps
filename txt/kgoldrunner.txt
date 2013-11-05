@@ -1,0 +1,9 @@
+
+ kgoldrunner (Hunt gold, dodge enemies and solve puzzles) 
+ 
+ KGoldrunner is a maze-threading game with a puzzle flavor. 
+ It has hundreds of levels where pieces of gold must be collected, 
+ with enemies in hot pursuit. 
+ 
+ For more information, visit: http://www.kde.org 
+

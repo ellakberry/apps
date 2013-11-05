@@ -1,0 +1,12 @@
+
+ gpm (general purpose mouse server) 
+ 
+ The general purpose mouse server, or gpm, allows you to use the mouse 
+ to cut and paste text from the screen. It also acts as a mouse 
+ server for applications running on the Linux console, such as the 
+ Midnight Commander file manager. 
+ 
+ NOTE: This program may cause problems when you start X on systems 
+ that use a bus mouse (not common). If you get an 'unable to open 
+ mouse device' error from X, disable /etc/rc.d/rc.gpm. 
+

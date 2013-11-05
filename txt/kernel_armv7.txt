@@ -1,0 +1,11 @@
+
+ kernel (Linux kernel for systems based on an ARMv7 CPU or higher) 
+ 
+ This is a generic Linux kernel for systems that are powered by an 
+ ARM CPU that supports the ARMv7 or higher chip set. 
+ 
+ 
+ 
+ 
+ Other drivers (such as additional file system support) may be 
+ loaded as modules. See /etc/rc.d/rc.modules for examples.

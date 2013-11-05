@@ -1,0 +1,12 @@
+
+ mdadm (manage RAID arrays) 
+ 
+ mdadm is a utility program for creating, managing, and monitoring 
+ Linux MD (Software RAID) devices. Unlike the older raidtools 
+ package, mdadm is a single program (which should make it easier to 
+ use). 
+ 
+ mdadm was written by Neil Brown. Development of mdadm is sponsored 
+ by CSE@UNSW (The School of Computer Science and Engineering at 
+ The University of New South Wales). 
+

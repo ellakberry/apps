@@ -1,0 +1,7 @@
+
+ minicom (communications package) 
+ 
+ Minicom - a full featured menu-driven communications package similar 
+ to the DOS program 'Telix'. Also includes sz/rz - utilities used to 
+ upload and download files using the Zmodem protocol. 
+

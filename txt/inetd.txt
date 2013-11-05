@@ -1,0 +1,11 @@
+
+ inetd (Internet super-server) 
+ 
+ This is a program to listen for connections on certain Internet 
+ sockets and invokes a program to service the request. Essentially, 
+ inetd allows running one daemon to invoke several others, reducing 
+ load on the system. Many of the network services are run through 
+ inetd, so you'll probably need it. 
+ 
+ This version of inetd was ported from OpenBSD. 
+

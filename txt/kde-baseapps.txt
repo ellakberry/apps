@@ -1,0 +1,8 @@
+
+ kde-baseapps (KDE core applications and files) 
+ 
+ This package provides the core applications and infrastructure files 
+ for the KDE Plasma Desktop. 
+ 
+ For more info, visit: http://www.kde.org 
+

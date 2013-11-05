@@ -1,0 +1,7 @@
+
+ smokekde (smoke-kde library) 
+ 
+ Smoke generator. 
+ 
+ For more information, visit: http://www.kde.org 
+

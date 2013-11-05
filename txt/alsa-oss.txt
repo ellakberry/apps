@@ -1,0 +1,9 @@
+
+ alsa-oss (library/wrapper to use OSS programs with ALSA) 
+ 
+ The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI 
+ functionality to the Linux operating system. OSS (Open Sound System) 
+ is an older sound system for Linux that ALSA is replacing. Using 
+ the aoss wrapper you can use programs that only support OSS with ALSA 
+ without having to load the OSS compatibility kernel modules. 
+

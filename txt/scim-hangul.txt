@@ -1,0 +1,12 @@
+
+ scim-hangul (SCIM IMengine for Hangul) 
+ 
+ Scim-hangul is a SCIM IMEngine module for inputing korean scripts. 
+ Scim-hangul is for native speakers, not for foreigners. 
+ If you don't want to learn korean keyboard layout, use scim-tables. 
+ This engine supports 2 beolsik, 3 beolsik final, 3 beolsik 390, 
+ 3 beolsik, no-shift and etc. You can input chinese characters 
+ (hanja) with F9 key when you a have preedit string. 
+ 
+ scim-hangul home: http://www.scim-im.org/projects/imengines 
+

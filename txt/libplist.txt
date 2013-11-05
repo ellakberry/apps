@@ -1,0 +1,8 @@
+
+ libplist (A library for Apple Binary and XML Property Lists) 
+ 
+ libplist is a library that attempts to support Apple Binary and XML 
+ Property Lists. It is used by libgpod. 
+ 
+ The libplist homepage: http://www.libimobiledevice.org/ 
+

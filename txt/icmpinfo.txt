@@ -1,0 +1,9 @@
+
+ icmpinfo (ICMP monitoring utility) 
+ 
+ Icmpinfo is a tool for looking at the ICMP messages received on the 
+ running host. It can be used to detect and record attack attempts, as 
+ well as help diagnose network problems. 
+ 
+ icmpinfo was written by Laurent Demailly. 
+

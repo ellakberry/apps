@@ -1,0 +1,9 @@
+
+ kshisen (Shisen-Sho Mahjongg-like tile game) 
+ 
+ KShisen is a solitaire-like game played using the standard set of 
+ Mahjong tiles. Unlike Mahjong however, KShisen has only one layer 
+ of scrambled tiles. 
+ 
+ For more information, visit: http://www.kde.org 
+

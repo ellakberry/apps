@@ -1,0 +1,88 @@
+
+ at (delayed command execution) 
+ 
+ at and batch read shell commands from standard input (or a specified 
+ file) storing them as a job to be scheduled for execution at a later 
+ time. 
+ 
+ The 'at' command was written by David Parsons and Thomas Koenig. 
+ biff+coms
+ biff+comsat (mail arrival notification daemon) biff+coms
+ biff+coms
+ Comsat is the server process which receives reports of incoming mail biff+coms
+ and notifies users if they have requested this service. "biff" is biff+coms
+ the program that requests comsat service "biff y", and may be placed biff+coms
+ in a user's startup file if they'd like to hear a beep and trash biff+coms
+ their console with each new piece of junk mail. ;-) biff+coms
+ biff+coms
+ Biff was the name of Heidi Stettner's dog, who barked when the biff+coms
+ mailman came. Biff was well known to many of the early BSD developers biff+coms
+ living in Evans Hall at U.C. Berkeley. diffst
+ diffstat (produces statistics from diff output) diffst
+ diffst
+ DiffStat is a simple filter that reads the output of the 'diff' diffst
+ program and displays a histogram of insertions, deletions, and diffst
+ modifications per-file. It is useful for reviewing large, complex diffst
+ patch files. diffst
+ diffst
+ Thomas E. Dickey is the author of DiffStat. diffst
+ exp
+ expat (C library for parsing XML) exp
+ exp
+ This is Expat, a C library for parsing XML, written by James Clark. exp
+ Expat is a stream-oriented XML parser used by Python, GNOME, Xft2, exp
+ and other things. exp
+ gcc-gn
+ gcc-gnat (Ada support for GCC) gcc-gn
+ gcc-gn
+ Ada 95 support for the GNU Compiler Collection. gcc-gn
+ gcc-gn
+ This package contains those parts of the compiler collection needed to gcc-gn
+ compile Ada 95 code. Ada95 is the object oriented successor to the gcc-gn
+ Ada83 language. The base gcc package is also required. gcc-gn
+ glibc-zoneinfo: may be found 
+ http://www.iana.org/time-zones hicolor-icon-theme: The specification is available 
+ kp
+ kpat (patience card game for KDE) kp
+ kp
+ KPat (aka KPatience) is a relaxing card sorting game. To win the game kp
+ a player has to arrange a single deck of cards in certain order kp
+ amongst each other. kp
+ kp
+ For more information, visit: http://www.kde.org kp
+ libcddb: Visit the project 
+ http://libcddb.sourceforge.net/ libusb-comp
+ libusb-compat (Compatibility library for libusb-0.1 apps) libusb-comp
+ libusb-comp
+ A compatibility layer allowing applications written for libusb-0.1 to libusb-comp
+ work with libusb-1.0. libusb-compat-0.1 attempts to retain as much libusb-comp
+ ABI and API compatibility with libusb-0.1 as possible. libusb-comp
+ libusb-comp
+ Homepage: http://libusb.org libusb-comp
+ lsk
+ lskat (Lieutnant Skat card game for KDE) lsk
+ lsk
+ Lieutnant Skat (from German "Offiziersskat") is a fun and engaging lsk
+ card game for two players, where the second player is either live lsk
+ opponent, or a built in artificial intelligence. lsk
+ lsk
+ For more information, visit: http://www.kde.org lsk
+ sysst
+ sysstat (System performance monitoring tools) sysst
+ sysst
+ The sysstat utilities are a collection of performance monitoring sysst
+ tools for Linux. These include the iostat, mpstat, pidstat, sadf, sysst
+ and sar tools. sysst
+ sysst
+ The sysstat utilities were written by Sebastien Godard. sysst
+ sysst
+ For more information, see the sysstat web site: sysst
+ http://pagesperso-orange.fr/sebastien.godard/ sysst
+ tango-icon-theme-extras: Visit the Tango project 
+ http://tango-project.org/ urwid: More info 
+ http://excess.org/urwid vorbis-tools: compressed audio files in the Ogg Vorbis (.ogg) form
+ xch
+ xchat (GTK+-based IRC client) xch
+ xch
+ X-Chat is a GTK+-based IRC (Internet Relay Chat) client. xch
+

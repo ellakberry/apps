@@ -1,0 +1,12 @@
+
+ kernel (Linux kernel for the Marvell Kirkwood Series) 
+ 
+ This Linux Kernel has been prepared specifically for the Marvell 
+ Kirkwood family of ARM-based devices. 
+ The Kirkwood family are aimed at network connected consumer 
+ electronic equipment, including home gateway/access points, set-top 
+ boxes, network storage, digital home media servers, point of services 
+ terminals, and plug computers. 
+ 
+ Other drivers (such as additional file system support) may be 
+ loaded as modules. See /etc/rc.d/rc.modules for examples.

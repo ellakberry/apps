@@ -1,0 +1,9 @@
+
+ ModemManager (mobile broadband modem API) 
+ 
+ ModemManager provides a unified high level API for communicating with 
+ mobile broadband modems. 
+ 
+ For more info, see: 
+ http://cgit.freedesktop.org/ModemManager/ModemManager/ 
+

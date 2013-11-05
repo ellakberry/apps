@@ -1,0 +1,11 @@
+
+ xorg-server-xvfb (virtual framebuffer X server) 
+ 
+ Xvfb is an X server that can run on machines with no display hardware 
+ and no physical input devices. It emulates a dumb framebuffer using 
+ virtual memory. The primary use of this server is intended to be 
+ server testing. The mfb or cfb code for any depth can be exercised 
+ with this server without the need for real hardware that supports the 
+ desired depths. A secondary use is testing clients against unusual 
+ depths and screen configurations. 
+

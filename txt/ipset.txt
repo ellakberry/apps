@@ -1,0 +1,11 @@
+
+ ipset (administration tool for kernel IP sets) 
+ 
+ IP sets are a Linux kernel framework administered by the ipset 
+ utility. Depending on the type, currently an IP set may store IP 
+ addresses, (TCP/UDP) port numbers, or IP addresses with MAC addresses 
+ in a way which ensures lightning speed when matching an entry against 
+ a set. 
+ 
+ Homepage: http://ipset.netfilter.org/ 
+

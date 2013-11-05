@@ -1,0 +1,10 @@
+
+ libtasn1 (ASN.1 library) 
+ 
+ Libtasn1 is the GNU ASN.1 library. Abstract Syntax Notation One 
+ (ASN.1) is a standard and flexible notation that describes rules and 
+ structures for representing, encoding, transmitting, and decoding 
+ data in telecommunications and computer networking. 
+ 
+ Libtasn1 was written by Fabio Fiorina. 
+

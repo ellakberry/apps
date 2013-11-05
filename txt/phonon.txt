@@ -1,0 +1,10 @@
+
+ phonon (multimedia framework for KDE4) 
+ 
+ Phonon is the multimedia API provided by Qt and is the standard 
+ abstraction for handling multimedia streams within the KDE Software 
+ Compilation. Phonon provides an API for multimedia using various 
+ backends (gstreamer, mplayer, xine) to handle the lower level I/O. 
+ 
+ Homepage: http://phonon.kde.org 
+

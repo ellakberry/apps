@@ -1,0 +1,9 @@
+
+ pan (USENET newsreader) 
+ 
+ This is PAN, a powerful and user-friendly USENET newsreader based on 
+ GTK+2. Pan is the only Unix newsreader to score 100% on the Good 
+ Net-Keeping Seal of Approval newsreader evaluations. 
+ 
+ Homepage: http://pan.rebelbase.com 
+

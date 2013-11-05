@@ -1,0 +1,9 @@
+
+ lsof (list open files) 
+ 
+ Lsof is a Unix-specific tool. Its name stands for "LiSt Open Files", 
+ and it does just that. It lists information about files that are open 
+ by the processes running on the system. 
+ 
+ Victor A. Abell of Purdue University is the developer of lsof. 
+

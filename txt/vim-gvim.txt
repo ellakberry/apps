@@ -1,0 +1,12 @@
+
+ vim-gvim (gvim, the X/GTK2 enabled version of vim) 
+ 
+ Gvim is a graphical version of vim. Vim is an almost compatible 
+ version of the UNIX editor vi. Many new features have been added, 
+ such as multi level undo, command line history, filename completion, 
+ block operations, and more. 
+ 
+ The main vim package in the AP series is required to use this package. 
+ 
+ Vim's development is led by Bram Moolenaar. 
+

@@ -1,0 +1,7 @@
+
+ linux-howtos (HOWTOs from the Linux Documentation Project) 
+ 
+ Documentation on many tasks relating to Linux setup and operation. 
+ 
+ These documents will be installed in /usr/doc/Linux-HOWTOs/. 
+

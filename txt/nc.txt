@@ -1,0 +1,31 @@
+libfonte
+ libfontenc (font encoding library) libfonte
+ libfonte
+ libfontenc is part of X11. libfonte
+ libfonte
+ For more information about the X.Org Foundation (the providers of the libfonte
+ X.Org implementation of the X Window System), see their website: libfonte
+ libfonte
+ http://www.x.org libfonte
+ 
+ nc (Netcat network utility) 
+ 
+ Netcat, or "nc" as the actual program is named, is a simple utility 
+ which reads and writes data across network connections, using TCP or 
+ UDP protocol. It is designed to be a reliable "back-end" tool that 
+ can be used directly or easily driven by other programs and scripts. 
+ At the same time, it is a feature-rich network debugging and 
+ exploration tool, since it can create almost any kind of connection 
+ you would need and has several interesting built-in capabilities. 
+ Netcat was written by *Hobbit* <hobbit@avian.org>, and is a product 
+ of Avian Research. rsy
+ rsync (remote file sync) rsy
+ rsy
+ rsync is a replacement for rcp that has many more features. It rsy
+ uses the "rsync algorithm" which provides a very fast method for rsy
+ bringing remote files into sync. It does this by sending just the rsy
+ differences in the files across the link, without requiring that both rsy
+ sets of files are present at one of the ends of the link beforehand. rsy
+ rsy
+ rsync was written by Andrew Tridgell and Paul Mackerras. rsy
+

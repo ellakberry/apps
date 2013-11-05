@@ -1,0 +1,11 @@
+
+ gnutls (GNU TLS library) 
+ 
+ This is a TLS (Transport Layer Security) 1.0 and SSL (Secure Sockets 
+ Layer) 3.0 implementation. In brief, GnuTLS can be described as a 
+ library which offers an API to access secure communication protocols. 
+ These protocols provide privacy over insecure lines, and were designed 
+ to prevent eavesdropping, tampering, or message forgery. 
+ 
+ Homepage: http://www.gnu.org/software/gnutls/ 
+

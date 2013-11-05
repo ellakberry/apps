@@ -1,0 +1,11 @@
+
+ korundum (KDE ruby bindings) 
+ 
+ Very complete bindings to both the KDE API and the Qt APIs. 
+ The Korundum package includes both a QtRuby Qt-only binding along 
+ with the full combined Qt/KDE one. 
+ The QtRuby package contains just Qt bindings with no dependencies 
+ on KDE. 
+ 
+ For more information, visit: http://rubyforge.org/projects/korundum/ 
+

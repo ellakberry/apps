@@ -1,0 +1,1 @@
+freeglut,gcc,cxxlibs|gcc-g++,libICE,libSM,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXi,libXmu,libXrandr,libXrender,libXt,libXxf86vm,libdrm,libjpeg,libxcb,mesa,util-linux

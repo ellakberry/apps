@@ -1,0 +1,9 @@
+
+ reiserfsprogs (Reiserfs filesystem utilities) 
+ 
+ These utilities are used for Reiserfs. Reiserfs is a file system 
+ based on balanced tree algorithms. 
+ 
+ Reiserfs is the work of Hans Reiser and many others. See the file 
+ /usr/doc/reiserfsprogs-3.6.21/README for full credits. 
+

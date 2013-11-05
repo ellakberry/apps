@@ -1,0 +1,68 @@
+
+ ed (text editor) 
+ 
+ GNU ed is an 8-bit clean, more or less POSIX-compliant implementation 
+ of the standard Unix line editor. These days, full-screen editors 
+ have rendered 'ed' mostly of historical interest. Nonetheless, it 
+ appeals to a handful of aging programmers who still believe that 
+ "Small is Beautiful". 
+ j
+ jed (programmer's editor) j
+ j
+ JED (by John E. Davis) is an extremely powerful but small emacs-like j
+ programmer's editor that is extensible in a C-like macro language and j
+ can do color syntax highlighting. Among the many features: j
+ Emacs, wordstar, EDT emulation; j
+ C, Fortran, TeX, text editing modes; Full undo; j
+ GNU Emacs compatible info reader, and lots more. j
+ j
+ JED is also 8 bit clean, so you can even edit binary files! j
+ libmcrypt: Some algorithms which are support
+ SERPENT, RIJNDAEL, 3DES, GOST, netkit-rout
+ netkit-routed (dynamic network routing daemon) netkit-rout
+ netkit-rout
+ Routed is invoked at boot time to manage the network routing tables. netkit-rout
+ The routing daemon uses a variant of the Xerox NS Routing Information netkit-rout
+ Protocol in maintaining up to date kernel routing table entries. netkit-rout
+ It used a generalized protocol capable of use with multiple address netkit-rout
+ types, but is currently used only for Internet routing within a netkit-rout
+ cluster of networks. netkit-rout
+ netkit-rout
+ Fair warning: routed is no longer maintained and may be insecure. netkit-rout
+ netkit-tim
+ netkit-timed (time server daemon) netkit-tim
+ netkit-tim
+ This is an early BSD time server daemon. While ntpd is better for netkit-tim
+ most purposes, this might be useful for secure networks or embedded netkit-tim
+ systems in need of something more lightweight. netkit-tim
+ netkit-tim
+ The timed daemon appeared in 4.3BSD. netkit-tim
+ part
+ parted (GNU disk partitioning tool) part
+ part
+ GNU Parted is a program for creating, destroying, resizing, checking part
+ and copying partitions, and the filesystems on them. This is useful part
+ for creating space for new operating systems, reorganizing disk part
+ usage, copying data between hard disks, and disk imaging. part
+ s
+ sed (stream editor) s
+ s
+ This is the GNU version of sed, a stream editor. A stream editor is s
+ used to perform basic text transformations on an input stream (a file s
+ or input from a pipeline). It is sed's ability to filter text in a s
+ pipeline which distinguishes it from other types of editors. s
+ s
+ sed is a required package (it is needed by many system scripts). s
+ vim: features have been add
+ multi level undo, command line history, xfce4-volum
+ xfce4-volumed (audio volume management daemon) xfce4-volum
+ xfce4-volum
+ This daemon is responsible for making the volume up/down and mute xfce4-volum
+ keys of the keyboard work automatically, and uses the XFCE mixer's xfce4-volum
+ defined card and track for choosing which track to act on. xfce4-volum
+ xfce4-volum
+ It also provides volume change and mute toggle notifications if xfce4-volum
+ a notification daemon is running (using libnotify). xfce4-volum
+ xfce4-volum
+ Homepage: https://launchpad.net/xfce4-volumed xfce4-volum
+

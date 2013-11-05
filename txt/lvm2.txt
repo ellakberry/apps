@@ -1,0 +1,11 @@
+
+ lvm2 (Logical Volume Manager version 2) 
+ 
+ Heinz Mauelshagen's LVM (Logical Volume Manager) for Linux. 
+ LVM adds an additional layer between the physical peripherals and the 
+ low-level I/O interface to get a logical view of disks. This allows 
+ the concatenation of several disks (so-called physical volumes or PVs) 
+ to form a storage pool (so-called Volume Group or VG) with allocation 
+ units called physical extents (called PE). With LVM, you can extend, 
+ resize, or relocate storage dynamically. 
+

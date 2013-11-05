@@ -1,0 +1,9 @@
+
+ GConf (GNOME configuration library) 
+ 
+ GConf is a configuration database system designed for the GNOME project 
+ and applications based on GTK+. It is conceptually similar to the 
+ Windows registry. 
+ 
+ For information, see: http://projects.gnome.org/gconf/ 
+

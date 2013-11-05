@@ -1,0 +1,9 @@
+
+ smokegen (smoke generator) 
+ 
+ Smoke Generator. The main purpose of SMOKE is making it easier to 
+ write bindings from scripting languages to Qt and KDE - with an 
+ emphasis on ease of use and flexibility. 
+ 
+ For more information, visit: http://www.kde.org 
+

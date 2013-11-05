@@ -1,0 +1,7 @@
+
+ giflib (GIF image format library) 
+ 
+ A library to load and save (uncompressed only) images using GIF, 
+ or Graphics Interchange Format. GIF was introduced by CompuServe 
+ in 1987, but is still widely used today (especially on web pages.) 
+

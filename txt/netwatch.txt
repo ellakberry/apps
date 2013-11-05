@@ -1,0 +1,7 @@
+
+ netwatch (a network monitor) 
+ 
+ Netwatch allows a user (superuser) to monitor activity on the network. 
+ The monitor includes statistics on transmitted and received packets, 
+ bytes, protocol, and more. 
+

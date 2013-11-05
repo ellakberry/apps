@@ -1,0 +1,7 @@
+
+ nepomuk-core (Nepomuk Core utilities and libraries) 
+ 
+ This package contains the Nepomuk Core utilities and libraries. 
+ 
+ For more information, visit: http://www.kde.org 
+

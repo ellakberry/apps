@@ -1,0 +1,9 @@
+
+ vboot-utils (Verified Boot Utility from Chromium OS) 
+ 
+ Verified Boot utility from Chromium OS. This collection of tools will 
+ help Slackware ARM install onto the 1012 Sansung Chromebook computer. 
+ 
+ The collection contains tools to format a GTP disklabel, pack & 
+ cryptography sign the kernel, among other useful things. 
+

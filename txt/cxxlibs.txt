@@ -1,0 +1,6 @@
+
+ cxxlibs (C++ shared library compatibility package) 
+ 
+ This package contains the shared libraries needed to run dynamically 
+ linked C++ binaries linked with older versions of libstdc++. 
+

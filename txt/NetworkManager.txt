@@ -1,0 +1,11 @@
+
+ NetworkManager (Networking that Just Works) 
+ 
+ The point of NetworkManager is to make networking configuration and 
+ setup as painless and automatic as possible. NetworkManager sets IP 
+ addresses, default routes, associating with wireless access points 
+ or wired LANs, and other network configuration settings in a simple, 
+ automated fashion (manual overrides are still possible). 
+ 
+ Home page: http://projects.gnome.org/NetworkManager/ 
+

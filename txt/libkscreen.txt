@@ -1,0 +1,9 @@
+
+ libkscreen (KDE screen management library) 
+ 
+ LibKScreen is a library that provides access to current configuration 
+ of connected displays and ways to change the configuration. 
+ 
+ For more information, visit: 
+ http://community.kde.org/Solid/Projects/ScreenManagement 
+

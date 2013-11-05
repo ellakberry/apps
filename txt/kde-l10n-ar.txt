@@ -1,0 +1,5 @@
+
+ kde-l10n-ar 
+ 
+ Arabic language support for KDE. 
+

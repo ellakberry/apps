@@ -1,0 +1,11 @@
+
+ libproxy (proxy configuration library) 
+ 
+ libproxy exists to answer the question: Given a network resource, 
+ how do I reach it? It handles all the details, enabling you to get 
+ back to programming. Just ask libproxy what proxy to use: you get 
+ simple code and your users get correct, consistent behavior and 
+ broad infrastructure compatibility. 
+ 
+ Homepage: http://code.google.com/p/libproxy/ 
+

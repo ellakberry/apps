@@ -1,0 +1,5 @@
+
+ kde-l10n-pl 
+ 
+ Polish language support for KDE. 
+

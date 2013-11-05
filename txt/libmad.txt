@@ -1,0 +1,12 @@
+
+ libmad (high-quality MPEG audio library) 
+ 
+ MAD (libmad) is a high-quality MPEG audio decoder. It currently 
+ supports MPEG-1 and the MPEG-2 extension to Lower Sampling 
+ Frequencies, as well as the so-called MPEG 2.5 format. All three 
+ audio layers (Layer I, Layer II, and Layer III a.k.a. MP3) are 
+ fully implemented. Because MAD provides full 24-bit PCM output, 
+ applications using MAD are able to produce high quality audio. 
+ MAD is distributed under the terms of the GPL. 
+ 
+ MAD (libmad) was written by Robert Leslie.

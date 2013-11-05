@@ -1,0 +1,7 @@
+
+ xpdf (PDF viewer for X) 
+ 
+ Xpdf is a viewer for Portable Document Format (PDF) files. 
+ 
+ xpdf was written by Derek B. Noonburg. 
+

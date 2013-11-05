@@ -1,0 +1,12 @@
+
+ sendmail (mail transfer agent) 
+ 
+ Eric Allman's mail transport agent. The _Unix System Administration 
+ Handbook_ calls sendmail 'The most complex and complete mail delivery 
+ system in common use...' 
+ 
+ Ready-made configuration files are included for systems connected by 
+ TCP/IP (with or without a nameserver) and for systems using UUCP. 
+ 
+ The procmail package is required to handle local mail delivery. 
+

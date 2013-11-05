@@ -1,0 +1,5 @@
+
+ kde-l10n-pa 
+ 
+ Punjabi language support for KDE. 
+

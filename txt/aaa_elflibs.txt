@@ -1,0 +1,10 @@
+
+ aaa_elflibs (shared libraries needed by many programs) 
+ 
+ This is a collection of shared libraries needed to run Linux programs. 
+ ELF (Executable and Linking Format) is the standard Linux binary 
+ format. These libraries are gathered from other Slackware packages 
+ and are intended to give a fairly complete initial set of libraries. 
+ This package should be not upgraded or reinstalled (it could copy 
+ over newer library versions). 
+

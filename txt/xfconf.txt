@@ -1,0 +1,7 @@
+
+ xfconf (Xfce configuration storage system) 
+ 
+ A daemon and query system for managing the storage and retrieval of 
+ settings for the Xfce Desktop Environment, both graphically as well as 
+ from the command line. 
+

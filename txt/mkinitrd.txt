@@ -1,0 +1,11 @@
+
+ mkinitrd (make an initial ramdisk) 
+ 
+ mkinitrd is a script to create an initial ramdisk that is loaded at 
+ the same time as the kernel. The initial ramdisk may be responsible 
+ for loading kernel modules (such a filesystem or SCSI controller 
+ module) that are needed to mount the root filesystem. 
+ 
+ The "initrd" is implemented as an initramfs. See the kernel 
+ documentation for more information on this, if you are interested. 
+

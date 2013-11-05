@@ -1,0 +1,6 @@
+
+ xorg-server-xephyr (Improved nested X server/client) 
+ 
+ Xephyr is a nested X-Client like Xnest, but with some additional 
+ features like XRender support. 
+

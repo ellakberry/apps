@@ -1,0 +1,12 @@
+
+ wqy-zenhei-font-ttf (Wen Quan Yi Zen Hei CJK Font) 
+ 
+ The WenQuanYi Zen Hei font is a Chinese (or CJK) outline font with 
+ Hei Ti style (a sans-serif style) Hanzi glyphs. This font is 
+ developed for general purpose use of Chinese for formating, printing 
+ and on-screen display. This font is also targeted at platform 
+ independence and the utility for document exchange between various 
+ operating systems. 
+ 
+ wqy-zenhei-font-ttf home: http://wqy.sourceforge.net/en/ 
+

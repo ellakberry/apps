@@ -1,0 +1,9 @@
+
+ nasm (NASM assembler) 
+ 
+ NASM is the Netwide Assembler, a free portable assembler for the Intel 
+ 80x86 microprocessor series, using primarily the traditional Intel 
+ instruction mnemonics and syntax. 
+ 
+ NASM was written by Simon Tatham and Julian Hall. 
+

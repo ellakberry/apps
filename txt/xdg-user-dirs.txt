@@ -1,0 +1,10 @@
+
+ xdg-user-dirs (manage XDG user directories) 
+ 
+ xdg-user-dirs is a tool used by various XDG compliant desktop 
+ environments to locate user well-known user directories such as 
+ the Desktop folder. It also handles localization/translation of the 
+ filenames. 
+ 
+ Homepage: http://freedesktop.org/wiki/Software/xdg-user-dirs 
+

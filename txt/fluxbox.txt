@@ -1,0 +1,6 @@
+
+ fluxbox (Fluxbox window manager) 
+ 
+ Fluxbox is yet another windowmanager for X that is based on blackbox 
+ but with many new features. 
+

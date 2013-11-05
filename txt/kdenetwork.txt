@@ -1,0 +1,5 @@
+
+ kdenetwork (Network utilities for KDE) 
+ 
+ Network related utilities for the KDE Software Compilation. 
+

@@ -1,0 +1,7 @@
+
+ libkcompactdisc (KDE library for playing & ripping CDs) 
+ 
+ A KDE library for playing & ripping CDs. 
+ 
+ For more information, visit: http://www.kde.org 
+

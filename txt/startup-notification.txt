@@ -1,0 +1,5 @@
+
+ startup-notification ("busy" cursors support) 
+ 
+ Adds support for applications to use "busy" cursors while starting up. 
+

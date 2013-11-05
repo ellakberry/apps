@@ -1,0 +1,6 @@
+
+ mkfontscale (X11 font utility) 
+ 
+ mkfontscale creates the fonts.scale and fonts.dir index files used 
+ by the legacy X11 font system. 
+

@@ -1,0 +1,8 @@
+
+ pkg-config (system for managing library compile/link flags) 
+ 
+ pkg-config is a system for managing library compile/link flags 
+ that works with automake and autoconf. It replaces the ubiquitous 
+ *-config scripts you may have seen with a single tool. See the man 
+ page that comes with pkg-config for full documentation. 
+

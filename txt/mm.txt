@@ -1,0 +1,22 @@
+g
+ gmm (C++ generic matrix template library) g
+ g
+ Gmm++ is a generic C++ template library for sparse, dense and skyline g
+ matrices. It is built as a set of generic algorithms (mult, add, copy, g
+ sub-matrices, dense and sparse solvers, etc.) for any interfaced vector g
+ type or matrix type. It can be viewed as a glue library that allows g
+ cooperation between several vector and matrix types. However, basic g
+ sparse, dense and skyline matrix/vector types are built in Gmm++, so g
+ it can be used as a standalone linear algebra library. g
+ 
+ mm (Shared Memory Allocation library) 
+ 
+ OSSP mm is a 2-layer abstraction library which simplifies the usage of 
+ shared memory between forked processes. On the first layer it hides 
+ all platform dependent implementation details (allocation and locking) 
+ when dealing with shared memory segments and on the second layer it 
+ provides a high-level malloc(3)-style API to work with data inside 
+ those shared memory segments. Apache, PHP, and other projects use mm. 
+ 
+ The mm library was written by Ralf S. Engelschall. 
+

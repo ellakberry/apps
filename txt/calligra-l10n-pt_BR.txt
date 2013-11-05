@@ -1,0 +1,5 @@
+
+ calligra-l10n-pt_BR 
+ 
+ Brazil portuguese language support for Calligra. 
+

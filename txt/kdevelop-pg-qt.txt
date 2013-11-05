@@ -1,0 +1,5 @@
+
+ kdevelop-pg-qt (KDevelop Parser Generator) 
+ 
+ KDevelop Parser Generator used in the PHP language plugin and others. 
+

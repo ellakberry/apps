@@ -1,0 +1,5 @@
+
+ dbus-python (Python bindings for dbus) 
+ 
+ This package includes python bindings for the D-Bus messagebus. 
+

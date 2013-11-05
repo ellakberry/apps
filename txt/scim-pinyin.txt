@@ -1,0 +1,9 @@
+
+ scim-pinyin (smart pinyin IM engine) 
+ 
+ This package provides a smart pinyin IM engine for SCIM. It includes 
+ the plugin modules and the data files to use the smart pinyin input 
+ input method for Chinese. 
+ 
+ scim-pinyin home: http://www.scim-im.org/ 
+

@@ -1,0 +1,8 @@
+
+ mkfontdir (X11 font utility) 
+ 
+ mkfontdir creates the fonts.dir files needed by the legacy X server 
+ core font system. The current implementation is a simple wrapper 
+ script around the mkfontscale program, which must be built and 
+ installed first. 
+

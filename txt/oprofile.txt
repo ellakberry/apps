@@ -1,0 +1,10 @@
+
+ oprofile (system profiling tool) 
+ 
+ OProfile is a profiling system for Linux. Profiling runs 
+ transparently in the background and profile data can be collected 
+ at any time. OProfile makes use of the hardware performance 
+ counters provided on Intel, AMD, and other processors, and uses a 
+ timer-interrupt based mechanism on CPUs without counters. 
+ OProfile can profile the whole system in high detail. 
+

@@ -1,0 +1,10 @@
+
+ elvis (text editor) 
+ 
+ Elvis is a text editor. It is intended to be a modern replacement 
+ for the classic ex/vi editor of UNIX fame. Elvis supports many new 
+ features, including multiple edit buffers, multiple windows, and a 
+ variety of display modes. 
+ 
+ As elvis is Slackware's default vi, this is a required package. 
+

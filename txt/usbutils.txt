@@ -1,0 +1,10 @@
+
+ usbutils (USB utilities) 
+ 
+ lsusb displays detailed information about all USB buses and devices 
+ in the system. 
+ 
+ usbmodules lists the kernel modules for a plugged in USB device. 
+ 
+ See the manual pages for more details. 
+

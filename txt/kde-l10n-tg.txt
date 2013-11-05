@@ -1,0 +1,5 @@
+
+ kde-l10n-tg 
+ 
+ Tajik language support for KDE. 
+

@@ -1,0 +1,9 @@
+
+ PyQt (Python bindings for Qt) 
+ 
+ PyQt is a set of Python bindings for Trolltech's Qt application 
+ framework and runs on all platforms supported by Qt. 
+ 
+ Homepage: http://www.riverbankcomputing.co.uk/software/pyqt/ 
+ 
+

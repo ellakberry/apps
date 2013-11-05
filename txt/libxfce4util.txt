@@ -1,0 +1,7 @@
+
+ libxfce4util (basic utility library for Xfce) 
+ 
+ Basic utility library for Xfce. This provides useful functions not 
+ relating to the handling of the user interface. 
+ 
+

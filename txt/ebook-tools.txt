@@ -1,0 +1,7 @@
+
+ ebook-tools (access and convert various ebook file formats) 
+ 
+ Tools for accessing and converting various ebook file formats. 
+ 
+ Home page: http://sourceforge.net/projects/ebook-tools/ 
+

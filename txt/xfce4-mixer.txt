@@ -1,0 +1,8 @@
+
+ xfce4-mixer (Sound mixer applet for Xfce) 
+ 
+ The xfce4-mixer package contains a volume control application based 
+ on GStreamer written to conceptually fit into the Xfce desktop 
+ environment. It also contains a plugin for the Xfce panel which is 
+ especially designed for use with the mouse wheel. 
+

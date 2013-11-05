@@ -1,0 +1,8 @@
+
+ netkit-rsh (the BSD rsh/rcp/rlogin clients and daemon) 
+ 
+ The old BSD rsh suite. Note that none of these programs provide 
+ encryption or strong authentication of network connections. As such, 
+ their use is discouraged. The "ssh" protocol and package is a 
+ cryptographically secure replacement. 
+

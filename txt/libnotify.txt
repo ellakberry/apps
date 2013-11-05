@@ -1,0 +1,7 @@
+
+ libnotify (notification library) 
+ 
+ A general library for event notification 
+ 
+ Homepage: http://www.galago-project.org/news/index.php 
+

@@ -1,0 +1,5 @@
+
+ kio-mtp (Provides KIO Access to MTP devices) 
+ 
+ Provides KIO Access to MTP devices using the mtp:/// protocol. 
+ MTP stands for Media Transfer Protocol” It is required in order to

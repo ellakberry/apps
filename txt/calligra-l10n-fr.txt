@@ -1,0 +1,5 @@
+
+ calligra-l10n-fr 
+ 
+ French language support for Calligra. 
+

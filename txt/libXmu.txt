@@ -1,0 +1,8 @@
+
+ libXmu (X miscellaneous utility library) 
+ 
+ This library contains miscellaneous utilities and is not part of the 
+ Xlib standard. It contains routines which only use public interfaces 
+ so that it may be layered on top of any proprietary implementation 
+ of Xlib or Xt. 
+

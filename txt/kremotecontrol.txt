@@ -1,0 +1,9 @@
+
+ kremotecontrol (remote control frontend) 
+ 
+ KRemoteControl (formerly known as KDELirc) is a KDE frontend for 
+ your remote controls. 
+ 
+ kremotecontrol's home page is: 
+ http://utils.kde.org/projects/kremotecontrol 
+

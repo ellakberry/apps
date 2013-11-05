@@ -1,0 +1,5 @@
+
+ kdevelop-php-docs (PHP documentation plugin for KDevelop) 
+ 
+ This KDevelop plugin integrates the php.net online documentation. 
+

@@ -1,0 +1,12 @@
+
+ xpaint (simple X paint program) 
+ 
+ XPaint is a versatile bitmap/pixmap editing tool with a feature set 
+ similar to MacPaint. 
+ 
+ The short features list: 
+ Brushes, Spray paint, Pencil, Lines, Arcs, Pattern Fill, Text, 
+ Boxes, Circles, Polygons. 
+ Works on multiple images simultaneously. Cut/Copy/Paste between all 
+ active images. Fatbits/Zoom on the image windows. 
+

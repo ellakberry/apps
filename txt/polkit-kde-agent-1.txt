@@ -1,0 +1,8 @@
+
+ polkit-kde-agent-1 (KDE polkit authenticator) 
+ 
+ This is a polkit authenticator for KDE. 
+ 
+ 
+ 
+

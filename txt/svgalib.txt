@@ -1,0 +1,9 @@
+
+ svgalib (A low level graphics library for Linux) 
+ 
+ This is a low level graphics library for Linux, originally based on 
+ VGAlib 1.2 by Tommy Frandsen. Support for many more chipsets has 
+ been added. 
+ 
+ svgalib is currently maintained by Matan Ziv-Av. 
+

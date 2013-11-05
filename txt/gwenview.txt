@@ -1,0 +1,9 @@
+
+ gwenview (image viewer for KDE) 
+ 
+ Gwenview is a simple image viewer for KDE. It features a folder tree 
+ window and a file list window, providing easy navigation of your file 
+ hierarchy. 
+ 
+ For more information, visit: http://www.kde.org 
+

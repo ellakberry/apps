@@ -1,0 +1,7 @@
+
+ thunar-volman (Thunar Volume Manager Plugin) 
+ 
+ thunar-volman is an extension for the Thunar File Manager, 
+ which enables automatic management of removable drives and 
+ media. 
+

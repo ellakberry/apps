@@ -1,0 +1,10 @@
+
+ whois (whois directory client) 
+ 
+ This is an enhanced whois (RFC 954) client derived from the BSD and 
+ RIPE whois programs. It can automatically select the appropriate 
+ whois server for most queries. 
+ 
+ This version of whois was written by Marco d'Itri 
+ For more information, see: http://www.linux.it/~md/software/ 
+

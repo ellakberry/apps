@@ -1,0 +1,7 @@
+
+ kde-base-artwork (KDE themes artwork) 
+ 
+ This package contains KSplash themes and other artwork. 
+ 
+ For more information, visit: http://www.kde.org 
+

@@ -1,0 +1,9 @@
+
+ gcc-java (Java support for GCC) 
+ 
+ Java support for the GNU Compiler Collection. 
+ 
+ This package contains those parts of the compiler collection needed to 
+ compile programs written in the Java programming language. The base 
+ gcc package is also required. 
+

@@ -1,0 +1,5 @@
+
+ kde-l10n-ca 
+ 
+ Catalan language support for KDE. 
+

@@ -1,0 +1,7 @@
+
+ scim-tables (tables IMEngine for scim) 
+ 
+ This is scim-tables IMEngine, which provides many CJK input methods. 
+ 
+ scim-tables home: http://scim-im.org/ 
+

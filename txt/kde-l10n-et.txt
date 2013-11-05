@@ -1,0 +1,5 @@
+
+ kde-l10n-et 
+ 
+ Estonian language support for KDE. 
+

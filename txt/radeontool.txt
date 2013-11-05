@@ -1,0 +1,8 @@
+
+ radeontool (small utility for ati radeon-based laptops) 
+ 
+ Radeontool is a small utility to control ATI Radeon-based 
+ laptops' backlight and external output functions 
+ 
+ Homepage: http://fdd.com/software/radeon/ 
+

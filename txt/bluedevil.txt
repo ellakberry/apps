@@ -1,0 +1,13 @@
+
+ bluedevil (bluetooth stack for KDE) 
+ 
+ BlueDevil is the bluetooth stack for KDE. 
+ 
+ Homepage: http://www.afiestas.org/ 
+ lib
+ libbluedevil (Qt wrapper for bluez) lib
+ lib
+ This is a Qt-based library for handling Bluetooth functionality. lib
+ lib
+ Homepage: http://ereslibre.es/ lib
+

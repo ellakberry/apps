@@ -1,0 +1,8 @@
+
+ zlib (compression library) 
+ 
+ zlib is a general purpose thread safe data compression library. The 
+ data format used by the zlib library is described by RFCs 1950 to 
+ 1952 in the files ftp://ds.internic.net/rfc/rfc1950.txt (zlib format) 
+ rfc1951.txt (deflate format) and rfc1952.txt (gzip format). 
+

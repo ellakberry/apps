@@ -1,0 +1,11 @@
+
+ hunspell (spell checker and morphological analyzer library) 
+ 
+ Hunspell is a spell checker and morphological analyzer library 
+ and program designed for languages with rich morphology 
+ and complex word compounding or character encoding. 
+ Hunspell interfaces: Ispell-like terminal interface using ncurses 
+ library, Ispell pipe interface, and OpenOffice.org UNO module. 
+ 
+ Home page: http://hunspell.sourceforge.net/ 
+

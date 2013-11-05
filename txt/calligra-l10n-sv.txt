@@ -1,0 +1,5 @@
+
+ calligra-l10n-sv 
+ 
+ Swedish language support for Calligra. 
+

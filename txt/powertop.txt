@@ -1,0 +1,12 @@
+
+ powertop (tool for analyzing system power usage) 
+ 
+ PowerTOP is a utility that collects data from your system and presents 
+ an overview to help optimize power savings. PowerTOP will identify 
+ which tunables and software components are the biggest offenders in 
+ slurping up your battery time. PowerTOP updates its display 
+ frequently so that you can directly see the impact of any changes you 
+ are making. 
+ 
+ Homepage: http://01.org/powertop/ 
+

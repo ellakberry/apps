@@ -1,0 +1,5 @@
+
+ xmag (X11 accessibility utility) 
+ 
+ xmag displays a magnified snapshot of a portion of an X11 screen. 
+

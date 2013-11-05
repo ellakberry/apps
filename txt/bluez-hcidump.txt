@@ -1,0 +1,9 @@
+
+ bluez-hcidump (Bluetooth analyzer) 
+ 
+ The bluez-hcidump package contains a network analyzer for Bluetooth. 
+ This utility (hcidump) utility reads raw HCI data coming from and 
+ going to a Bluetooth device and prints commands, events and data. 
+ 
+ For more info, visit: http://www.bluez.org 
+

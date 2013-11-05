@@ -1,0 +1,11 @@
+
+ mtr (a network diagnostic tool) 
+ 
+ mtr combines the functionality of the 'traceroute' and 'ping' programs 
+ in a single network diagnostic tool. 
+ 
+ Matt Kimball wrote most of mtr, and mtr is currently maintained by 
+ Roger Wolff. 
+ 
+ mtr has a home page: http://www.bitwizard.nl/mtr/ 
+

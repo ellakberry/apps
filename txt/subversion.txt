@@ -1,0 +1,12 @@
+
+ subversion (a version control system) 
+ 
+ Subversion is a version control system which allows you to keep old 
+ versions of files and directories (usually source code), and keep a 
+ log of who, when, and why changes occurred, similar to other such 
+ systems like CVS, RCS or SCCS. Subversion keeps all the information 
+ to permit extracting previous versions of those files at any time. 
+ 
+ For more information about the Subversion project, visit: 
+ http://subversion.apache.org 
+

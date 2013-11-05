@@ -1,0 +1,10 @@
+
+ grantlee (string template engine) 
+ 
+ Grantlee is a plugin based String Template system written using the 
+ Qt framework. The goals of the project are to make it easier for 
+ application developers to separate the structure of documents from 
+ the data they contain, opening the door for theming. 
+ 
+ Homepage: http://gitorious.org/grantlee/ 
+

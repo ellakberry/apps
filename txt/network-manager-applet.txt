@@ -1,0 +1,5 @@
+
+ network-manager-applet (NetworkManager Applet) 
+ 
+ nm-applet is a gui frontend for NetworkManager. 
+

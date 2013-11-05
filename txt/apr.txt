@@ -1,0 +1,7 @@
+
+ apr (Apache Portable Runtime) 
+ 
+ The mission of the Apache Portable Runtime (APR) is to provide a 
+ free library of C data structures and routines, forming a system 
+ portability layer to as many operating systems as possible. 
+

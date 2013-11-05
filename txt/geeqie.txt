@@ -1,0 +1,9 @@
+
+ geeqie (Geeqie image viewer) 
+ 
+ Geeqie is an interactive GTK based image viewer that supports multiple 
+ image formats, zooming, panning, thumbnails, and sorting images into 
+ collections. 
+ 
+ Homepage: http://geeqie.sourceforge.net 
+

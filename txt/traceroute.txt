@@ -1,0 +1,9 @@
+
+ traceroute (IP packet route tracing utility) 
+ 
+ The traceroute utility displays the route used by IP packets on their 
+ way to a specified network host. Traceroute will display the IP 
+ number and host name (if possible) of all the machines along the route 
+ taken by the packets. If you're having network connectivity problems, 
+ traceroute can show you where the trouble is located. 
+

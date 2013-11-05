@@ -1,0 +1,12 @@
+
+ netkit-routed (dynamic network routing daemon) 
+ 
+ Routed is invoked at boot time to manage the network routing tables. 
+ The routing daemon uses a variant of the Xerox NS Routing Information 
+ Protocol in maintaining up to date kernel routing table entries. 
+ It used a generalized protocol capable of use with multiple address 
+ types, but is currently used only for Internet routing within a 
+ cluster of networks. 
+ 
+ Fair warning: routed is no longer maintained and may be insecure. 
+

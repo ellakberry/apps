@@ -1,0 +1,20 @@
+
+ GStreamer (streaming multimedia framework) 
+ 
+ GStreamer is a library that allows the construction of graphs of a 
+ media-handling components, ranging from simple Ogg/Vorbis playback 
+ to complex audio (mixing) and video (non-linear editing) processing. 
+ Applications can take advantage of advances in codec and filter 
+ technology transparently. Developers can add new codecs and filters 
+ by writing a simple plugin with a clean, generic interface. 
+ 
+ GStreamer is released under the LGPL. 
+ phonon-
+ phonon-gstreamer (gstreamer backend for phonon) phonon-
+ phonon-
+ This package provides an additional gstreamer backend for the phonon phonon-
+ multimedia framework used in KDE. phonon-
+ phonon-
+ For more information, visit: phonon-
+ https://projects.kde.org/projects/kdesupport/phonon/phonon-gstreamer phonon-
+

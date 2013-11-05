@@ -1,0 +1,7 @@
+
+ kgamma (display gamma configuration) 
+ 
+ A KDE system settings module to configure display gamma. 
+ 
+ For more information, visit: http://www.kde.org 
+

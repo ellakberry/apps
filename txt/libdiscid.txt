@@ -1,0 +1,11 @@
+
+ libdiscid (library to generate DiscIDs from audio CDs) 
+ 
+ libdiscid creates MusicBrainz DiscIDs from audio CDs. 
+ It reads the table of contents (TOC) of a CD and generates 
+ an identifier which can be used to lookup the CD at MusicBrainz. 
+ Additionally, it provides a submission URL for adding the DiscID 
+ to the database. 
+ 
+ Home: http://musicbrainz.org/doc/libdiscid 
+

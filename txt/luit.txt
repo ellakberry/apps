@@ -1,0 +1,8 @@
+
+ luit (character encoding convertor for X11 terminals) 
+ 
+ Luit is a filter that can be run between an arbitrary application and 
+ a UTF-8 terminal emulator such as xterm. It will convert application 
+ output from the locale's encoding into UTF-8, and convert terminal 
+ input from UTF-8 into the locale's encoding. 
+

@@ -1,0 +1,5 @@
+
+ kde-l10n-fi 
+ 
+ Finnish language support for KDE. 
+

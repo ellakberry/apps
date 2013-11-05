@@ -1,0 +1,7 @@
+
+ kdegraphics-mobipocket (Mobipocket support for Okular) 
+ 
+ Mobipocket support for Okular. 
+ 
+ For more information, visit: http://www.kde.org/ 
+

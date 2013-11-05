@@ -1,0 +1,9 @@
+
+ libusb (USB library) 
+ 
+ This is libusb, a library which allows userspace application access 
+ to USB devices. It is used to connect to USB devices like scanners 
+ and printers. 
+ 
+ http://libusb.org 
+

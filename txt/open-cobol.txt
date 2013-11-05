@@ -1,0 +1,12 @@
+
+ open-cobol (open source COBOL compiler) 
+ 
+ OpenCOBOL is an open-source COBOL compiler. OpenCOBOL implements a 
+ substantial part of the COBOL 85 and COBOL 2002 standards, as well as 
+ many extensions of the existent COBOL compilers. OpenCOBOL translates 
+ COBOL into C and compiles the translated code using the native C 
+ compiler. OpenCOBOL was written by Roger While and Keisuke Nishida, 
+ with the invaluable assistance of many others. 
+ 
+ Homepage: http://opencobol.add1tocobol.com 
+

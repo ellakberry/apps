@@ -1,0 +1,11 @@
+
+ kernel-firmware (Firmware for the kernel) 
+ 
+ These are firmware files for the Linux kernel. 
+ 
+ You'll need these to use certain hardware drivers with Linux. 
+ 
+ Upstream site: 
+ 
+ git://git.kernel.org/pub/scm/linux/kernel/git/dwmw2/linux-firmware.git 
+

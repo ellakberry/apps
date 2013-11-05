@@ -1,0 +1,10 @@
+
+ idnkit (Internationalized domain names toolkit) 
+ 
+ idnkit is a toolkit for handling internationalized domain names. 
+ It includes a library for handling internationalized domain names 
+ (libidnkit, libidnkitlite), a codeset conversion utility (idnconv), 
+ and a command which adds IDN dynamically to applications (runidn). 
+ 
+ Homepage: http://www.nic.ad.jp/en/idn/ 
+

@@ -1,0 +1,10 @@
+
+ libktorrent (Protocol library for the KDE BitTorrent program) 
+ 
+ Libktorrent is the BitTorrent protocol library for ktorrent, which 
+ contains all the torrent downloading code. Although it is closely 
+ to ktorrent, the goal is to make libktorrent an independent 
+ library which can be used by other applications. 
+ 
+ Homepage: http://ktorrent.org 
+

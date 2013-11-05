@@ -1,0 +1,6 @@
+
+ elm (Menu-driven user mail program) 
+ 
+ Elm is an interactive screen-oriented mailer program originally 
+ written by Dave Taylor, and continued by the Elm Development Group. 
+

@@ -1,0 +1,5 @@
+
+ calligra-l10n-nds 
+ 
+ Low Saxon language support for Calligra. 
+

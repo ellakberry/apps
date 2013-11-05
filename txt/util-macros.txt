@@ -1,0 +1,7 @@
+
+ util-macros (autoconf support for X11) 
+ 
+ This is a set of autoconf macros used by the configure.ac scripts in 
+ other Xorg modular packages, and is needed to generate new versions 
+ of their configure scripts with autoconf. 
+

@@ -1,0 +1,9 @@
+
+ gcc (Base GCC package with C support) 
+ 
+ GCC is the GNU Compiler Collection. 
+ 
+ This package contains those parts of the compiler collection needed to 
+ compile C code. Other packages add C++, Fortran, Objective-C, and 
+ Java support to the compiler core. 
+

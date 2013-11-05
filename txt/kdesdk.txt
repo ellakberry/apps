@@ -1,0 +1,8 @@
+
+ kdesdk (KDE SDK) 
+ 
+ KDE Software Development Kit. This is a collection of applications 
+ and tools used to develop on the KDE Platform. It also contains 
+ example code for use in learning KDE programming or starting a new 
+ KDE application. 
+

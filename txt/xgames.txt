@@ -1,0 +1,7 @@
+
+ xgames (small X games collection) 
+ 
+ A few small and historic games and toys for X. 
+ 
+ Includes maze, spider, xcolormap, xlander, xminesweep, xroach, xsnow. 
+

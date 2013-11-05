@@ -1,0 +1,6 @@
+
+ dosfstools (tools for working with FAT filesystems) 
+ 
+ Utilities for creating FAT filesystems (mkdosfs), and for checking 
+ and repairing them (dosfsck). 
+

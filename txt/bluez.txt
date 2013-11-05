@@ -1,0 +1,9 @@
+
+ bluez (Bluetooth libraries and utilities) 
+ 
+ Bluez is the Bluetooth stack for Linux, allowing Bluetooth adaptors 
+ and devices to be used with Linux. This package contains the Bluez 
+ libraries, utilities, and other support files. 
+ 
+ For more info, visit: http://www.bluez.org 
+

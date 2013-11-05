@@ -1,0 +1,7 @@
+
+ kross-interpreters (Kross interpreters) 
+ 
+ Set of interpreter plugins for the Kross archtecture in KDE. 
+ 
+ See also: http://developer.kde.org/language-bindings/ 
+

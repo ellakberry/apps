@@ -1,0 +1,5 @@
+
+ calligra-l10n-el 
+ 
+ Greek language support for Calligra. 
+

@@ -1,0 +1,12 @@
+
+ dialog (display dialog boxes from shell scripts) 
+ 
+ Dialog is a program to present a variety of questions or display 
+ messages using dialog boxes from a shell script. The Slackware 
+ package management script "pkgtool" uses this, as do various other 
+ menu-driven console scripts. 
+ 
+ Dialog was originally contributed to Slackware by Savio Lam, and has 
+ been contributed to by many. Dialog is currently maintained by 
+ Thomas E. Dickey. 
+

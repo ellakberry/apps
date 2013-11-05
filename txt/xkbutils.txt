@@ -1,0 +1,6 @@
+
+ xkbutils (X11 keyboard utilities) 
+ 
+ xkbutils is a collection of small utilities utilizing the XKeyboard 
+ (XKB) extension to the X11 protocol. 
+

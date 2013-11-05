@@ -1,0 +1,11 @@
+
+ inotify-tools (command line utilities for inotify) 
+ 
+ inotify-tools is a set of command-line programs for Linux providing a 
+ simple interface to inotify. These programs can be used to monitor 
+ and act upon filesystem events. 
+ 
+ For more information see the inotifywait and inotifywatch man pages. 
+ 
+ inotify-tools home: http://inotify-tools.sourceforge.net/ 
+

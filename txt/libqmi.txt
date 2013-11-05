@@ -1,0 +1,8 @@
+
+ libqmi (QMI library and utils) 
+ 
+ libqmi is a glib-based library for talking to WWAN modems and devices 
+ which speak the Qualcomm MSM Interface (QMI) protocol. 
+ 
+ Homepage: http://www.freedesktop.org/software/libqmi/ 
+

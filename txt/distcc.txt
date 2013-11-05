@@ -1,0 +1,12 @@
+
+ distcc (distributed C/C++ compiler/daemon) 
+ 
+ distcc allows compilation of C code to be distributed across several 
+ machines on a network. distcc should always generate the same results 
+ as a local compile, is simple to install and use, and is often 
+ significantly faster than a local compile. 
+ 
+ IMPORTANT SECURITY NOTE: distccd should only run on trusted networks. 
+ 
+ distcc was written by Martin Pool. 
+

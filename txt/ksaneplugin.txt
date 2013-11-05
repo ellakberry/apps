@@ -1,0 +1,7 @@
+
+ ksaneplugin (scanning plugin using libksane) 
+ 
+ This is a KScan plugin that implements the scanning through libksane. 
+ 
+ For more information, visit: http://www.kde.org 
+

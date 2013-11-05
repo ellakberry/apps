@@ -1,0 +1,12 @@
+
+ xf86-video-armsoc 
+ 
+ X.Org X11 armsocdrm driver for ARM MALI GPUs such as the Samsung 
+ Exynos 4/5 series ARM devices - including the Samsung ChromeBook ARM 
+ edition. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

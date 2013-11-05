@@ -1,0 +1,7 @@
+
+ kbd (Keyboard input driver for the Xorg X server) 
+ 
+ This is the non-evdev keyboard driver for X. Most Linux systems 
+ should be using the evdev driver to handle input devices such as 
+ keyboards and mice, but this driver may be useful as a fallback. 
+

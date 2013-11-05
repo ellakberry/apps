@@ -1,0 +1,8 @@
+
+ ulogd (Userspace Logging Daemon) 
+ 
+ ulogd is a userspace logging daemon for netfilter/iptables related 
+ logging. This includes per-packet logging of security violations, 
+ per-packet logging for accounting, per-flow logging and flexible 
+ user-defined accounting. 
+

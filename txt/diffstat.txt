@@ -1,0 +1,10 @@
+
+ diffstat (produces statistics from diff output) 
+ 
+ DiffStat is a simple filter that reads the output of the 'diff' 
+ program and displays a histogram of insertions, deletions, and 
+ modifications per-file. It is useful for reviewing large, complex 
+ patch files. 
+ 
+ Thomas E. Dickey is the author of DiffStat. 
+

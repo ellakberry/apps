@@ -1,0 +1,9 @@
+
+ notify-python (Python bindings for libnotify) 
+ 
+ The notify-python package contains bindings to use libnotify with 
+ Python programs. 
+ 
+ Homepage for 
+ http://www.galago-project.org/ 
+

@@ -1,0 +1,11 @@
+
+ zsh (the Z shell) 
+ 
+ Zsh is a UNIX command interpreter (shell) which of the standard shells 
+ most resembles the Korn shell (ksh), although it is not completely 
+ compatible. It includes enhancements of many types, notably in the 
+ command-line editor, options for customizing its behavior, filename 
+ globbing, features to make C-shell (csh) users feel more at home and 
+ extra features drawn from tcsh (another 'custom' shell). Zsh was 
+ written by Paul Falstad. 
+

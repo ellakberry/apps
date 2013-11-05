@@ -1,0 +1,11 @@
+
+ xsane (Graphical frontend to SANE, Scanner Access Now Easy) 
+ 
+ xsane provides a graphical user-interface to control an image 
+ acquisition device such as a flatbed scanner. It allows previewing 
+ and scanning individual images and can be invoked either directly 
+ from the command-line or through the GIMP image manipulation program. 
+ 
+ xsane accesses image acquisition devices through the SANE (Scanner 
+ Access Now Easy) interface. 
+

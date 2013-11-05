@@ -1,0 +1,7 @@
+
+ garcon (menu implementation for Xfce) 
+ 
+ This is garcon, a freedesktop.org compliant menu implementation based 
+ on GLib and GIO. It was started as a rewrite of the former Xfce menu 
+ library called libxfce4menu. 
+

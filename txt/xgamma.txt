@@ -1,0 +1,6 @@
+
+ xgamma (X11 gamma utility) 
+ 
+ xgamma allows X users to query and alter the gamma correction of a 
+ monitor via the X video mode extension (XFree86-VidModeExtension). 
+

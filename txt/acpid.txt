@@ -1,0 +1,12 @@
+
+ acpid (ACPI daemon) 
+ 
+ Most modern computers support the Advanced Configuration and Power 
+ Interface (ACPI) standard to allow intelligent power management. 
+ This package contains acpid, which is the user-space daemon needed in 
+ order to make the Linux ACPI support completely functional. 
+ 
+ ACPI must be compiled into the kernel to run acpid. 
+ 
+ Homepage: http://sourceforge.net/projects/acpid2/ 
+

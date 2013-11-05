@@ -1,0 +1,11 @@
+
+ automoc4 (automatic moc for Qt4) 
+ 
+ This package contains the automoc4 binary which is used to run moc 
+ on the right source files in a Qt 4 or KDE 4 application. 
+ Moc is the meta object compiler which is a widely used tool with Qt 
+ and creates standard C++ files to provide syntactic sugar of the 
+ signal/slots mechanism. 
+ 
+ See also http://www.kde.org 
+

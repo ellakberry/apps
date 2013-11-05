@@ -1,0 +1,9 @@
+
+ libusb-compat (Compatibility library for libusb-0.1 apps) 
+ 
+ A compatibility layer allowing applications written for libusb-0.1 to 
+ work with libusb-1.0. libusb-compat-0.1 attempts to retain as much 
+ ABI and API compatibility with libusb-0.1 as possible. 
+ 
+ Homepage: http://libusb.org 
+

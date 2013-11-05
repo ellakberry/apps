@@ -1,0 +1,9 @@
+
+ pmake (BSD parallel make) 
+ 
+ This is PMake -- a parallel Make program originally written for the 
+ Sprite operating system, ported from BSD Unix. This may be useful if 
+ you're going to port software with Makefiles designed for BSD. 
+ 
+ PMake was written by Adam de Boor. 
+

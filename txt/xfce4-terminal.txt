@@ -1,0 +1,8 @@
+
+ xfce4-terminal (Xfce's Terminal Emulator) 
+ 
+ This is the Xfce terminal emulator application. xfce4-terminal is 
+ a lightweight and easy to use terminal emulator for the X windowing 
+ system, with some new ideas and features that make it unique among 
+ X terminal emulators. 
+

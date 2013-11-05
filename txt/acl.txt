@@ -1,0 +1,10 @@
+
+ acl (tools for using POSIX Access Control Lists) 
+ 
+ This package contains a set of tools and libraries for manipulating 
+ POSIX Access Control Lists. POSIX Access Control Lists (defined in 
+ POSIX 1003.1e draft standard 17) are used to define more fine-grained 
+ discretionary access rights for files and directories. 
+ 
+ Homepage: http://savannah.nongnu.org/projects/acl 
+

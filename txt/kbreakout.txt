@@ -1,0 +1,7 @@
+
+ kbreakout (breakout-like game for KDE) 
+ 
+ KBreakout is the KDE version of a Breakout-like game. 
+ 
+ For more information, visit: http://www.kde.org 
+

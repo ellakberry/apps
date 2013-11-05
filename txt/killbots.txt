@@ -1,0 +1,7 @@
+
+ killbots (Robots-like game for KDE) 
+ 
+ Killbots is a simple game of evading killer robots. 
+ 
+ For more information, visit: http://www.kde.org 
+

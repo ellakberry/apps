@@ -1,0 +1,11 @@
+
+ scim (Smart Common Input Method platform) 
+ 
+ SCIM is an input platform for CJK and other languages. 
+ It aims to significantly reduce the difficulty of input method 
+ development. 
+ 
+ See the scim scripts in /etc/profile.d/ for setup info. 
+ 
+ scim home: http://www.scim-im.org/ 
+

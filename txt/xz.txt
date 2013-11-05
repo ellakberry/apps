@@ -1,0 +1,12 @@
+
+ xz (compression utility based on the LZMA algorithm) 
+ 
+ LZMA is a general purpose compression algorithm designed by Igor 
+ Pavlov as part of 7-Zip. It provides high compression ratio while 
+ keeping the decompression speed fast. XZ Utils are an attempt to make 
+ LZMA compression easy to use on free (as in freedom) operating 
+ systems. 
+ 
+ The people most responsible for xz are Igor Pavlov, Ville Koskinen, 
+ and Lasse Collin. For more info: http://tukaani.org/xz/ 
+

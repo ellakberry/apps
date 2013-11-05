@@ -1,0 +1,19 @@
+dbus-
+ dbus-glib (Glib bindings for dbus) dbus-
+ dbus-
+ This package includes the glib bindings for the dbus IPC library. dbus-
+ 
+ glib (library of C routines, version 1.x) 
+ 
+ GLib is a library which includes support routines for C such as lists, 
+ trees, hashes, memory allocation, and many other things. 
+ 
+ GLib is required by nearly everything that uses GTK+ version 1.x. 
+ ta
+ taglib (audio meta-data library) ta
+ ta
+ TagLib is a library for reading and editing the meta-data of several ta
+ popular audio formats. Currently it supports both ID3v1 and ID3v2 ta
+ for MP3 files, Ogg Vorbis comments and ID3 tags and Vorbis comments ta
+ in FLAC files. ta
+

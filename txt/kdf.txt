@@ -1,0 +1,9 @@
+
+ kdf (show available disk space) 
+ 
+ kdf (KDiskFree) displays the available file devices (hard drive 
+ partitions, floppy and CD/DVD drives, etc.) along with information on 
+ their capacity, free space, type and mount point. 
+ 
+ kdf's home page is: http://utils.kde.org/projects/kdf 
+

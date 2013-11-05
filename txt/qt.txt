@@ -1,0 +1,33 @@
+kdevelop-pg-
+ kdevelop-pg-qt (KDevelop Parser Generator) kdevelop-pg-
+ kdevelop-pg-
+ KDevelop Parser Generator used in the PHP language plugin and others. kdevelop-pg-
+ libdbusmenu-
+ libdbusmenu-qt (Qt implementation of the DBusMenu spec) libdbusmenu-
+ libdbusmenu-
+ This library provides a Qt implementation of the DBusMenu protocol. libdbusmenu-
+ The DBusMenu protocol makes it possible for applications to export libdbusmenu-
+ and import their menus over DBus. libdbusmenu-
+ libdbusmenu-
+ Homepage: http://people.canonical.com/~agateau/dbusmenu/ libdbusmenu-
+ perl
+ perlqt (Perl OO interface to Qt) perl
+ perl
+ A Perl Object Oriented interface to the Qt GUI Toolkit. perl
+ Access to the KDE Desktop Environment libraries is planned as well. perl
+ perl
+ For more information, visit: http://perlqt.sourceforge.net perl
+ 
+ Qt (a multi-platform C++ graphical user interface toolkit) 
+ 
+ Qt is a complete and well-developed object-oriented framework for 
+ developing graphical user interface (GUI) applications using C++. 
+ 
+ Homepage: http://qt-project.org/ 
+ smoke
+ smokeqt (bindings for Qt libraries) smoke
+ smoke
+ This package includes bindings for Qt libraries. smoke
+ smoke
+ For more information, visit: http://www.kde.org smoke
+

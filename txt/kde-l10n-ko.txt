@@ -1,0 +1,5 @@
+
+ kde-l10n-ko 
+ 
+ Korean language support for KDE. 
+

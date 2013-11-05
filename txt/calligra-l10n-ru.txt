@@ -1,0 +1,5 @@
+
+ calligra-l10n-ru 
+ 
+ Russian language support for Calligra. 
+

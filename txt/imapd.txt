@@ -1,0 +1,7 @@
+
+ imapd (IMAP4rev1 from alpine) 
+ 
+ /usr/sbin/ipop3d and /usr/sbin/imapd are servers supporting the POP3 
+ and IMAP remote mail access protocols. They allow users to download 
+ mail from your Linux system for remote viewing. 
+

@@ -1,0 +1,8 @@
+
+ bluez-firmware (Bluetooth(TM) firmware) 
+ 
+ The bluez-firmware package contains firmware needed by various 
+ chipsets to support Bluetooth(TM) on Linux. 
+ 
+ For more info, visit: http://www.bluez.org 
+

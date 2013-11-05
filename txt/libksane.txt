@@ -1,0 +1,7 @@
+
+ libksane (KDE scan support interface) 
+ 
+ Libksane is a library to add scan support to KDE applications. 
+ 
+ For more information, visit: http://www.kde.org 
+

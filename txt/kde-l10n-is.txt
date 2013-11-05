@@ -1,0 +1,5 @@
+
+ kde-l10n-is 
+ 
+ Icelandic language support for KDE. 
+

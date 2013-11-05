@@ -1,0 +1,5 @@
+
+ kde-l10n-ru 
+ 
+ Russian language support for KDE. 
+

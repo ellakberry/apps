@@ -1,0 +1,6 @@
+
+ xpyb (Python bindings for X) 
+ 
+ xpyb provides a Python binding to the X Window System protocol 
+ via libxcb. 
+

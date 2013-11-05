@@ -1,0 +1,5 @@
+
+ lha (LHa archive utility) 
+ 
+ LHa is an archiving and compressing utility written by Tsugio Okamoto. 
+

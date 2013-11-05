@@ -1,0 +1,8 @@
+
+ libnetfilter_acct (userspace library for netfilter accounting) 
+ 
+ libnetfilter_acct is the userspace library providing interface 
+ to extended accounting infrastructure. 
+ 
+ libnetfilter_acct is used by nfacct. 
+

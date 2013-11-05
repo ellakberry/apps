@@ -1,0 +1,9 @@
+
+ vte (terminal emulator widget) 
+ 
+ VTE is a terminal emulator widget for use with GTK+. This package 
+ contains the VTE library and development files and a sample 
+ implementation (vte). 
+ 
+ VTE is used by XFce. 
+

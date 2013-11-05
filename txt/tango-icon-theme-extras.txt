@@ -1,0 +1,9 @@
+
+ tango-icon-theme-extras (Extras for the Tango icon theme) 
+ 
+ This is an extension to the Tango Icon Theme. Currently it includes 
+ Tango icons for iPod Digital Audio Player (DAP) devices and the Dell 
+ Pocket DJ DAP. 
+ 
+ Visit the Tango project at: http://tango-project.org/ 
+

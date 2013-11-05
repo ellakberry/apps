@@ -1,0 +1,12 @@
+
+ wireless-tools (utilities for wireless networking) 
+ 
+ This package contains tools and a library used for configuring 
+ wireless networking interfaces: 
+ iwconfig (the main wireless tool), iwlist (display more detailed 
+ information than iwconfig), iwspy (get stats per MAC address and 
+ more), iwpriv (set driver private ioctls), iwgetid (show the 
+ ESSID or NWID of a device), iwevent (display wireless events), 
+ ifrename (rename a network interface). 
+ 
+ The wireless-tools were written by Jean Tourrilhes.

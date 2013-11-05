@@ -1,0 +1,7 @@
+
+ ksnapshot (screen capture program) 
+ 
+ A screenshot utility for KDE. 
+ 
+ For more information, visit: http://www.kde.org 
+

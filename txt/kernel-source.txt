@@ -1,0 +1,12 @@
+
+ kernel-source (Linux kernel source) 
+ 
+ Source code for Linus Torvalds' Linux kernel. 
+ 
+ This package contains the source to the Linux Kernel. It was created 
+ from a compilation of a working Kernel, therefore includes any patches 
+ that have been applied to the Kernels shipped in Slackware ARM. 
+ Any such patches can be found in the Slackware ARM source tree: 
+ slackwarearm-<version>/sources/k/sources/patches/ 
+ 
+

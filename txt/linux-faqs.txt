@@ -1,0 +1,12 @@
+
+ linux-faqs (Linux FAQ collection from ibiblio.org) 
+ 
+ Frequently Asked Questions (and answers!) on many Linux topics. 
+ 
+ Some of the FAQs included in this package: 
+ ATAPI-FAQ, AfterStep-FAQ, BLFAQ (Brief Linux FAQ), Ftape-FAQ, 
+ GCC-SIG11-FAQ, Joe-Command-Reference, the Linux-FAQ, PPP-FAQ, SMP-FAQ, 
+ and the Threads-FAQ. 
+ 
+ These FAQs will be installed under /usr/doc/Linux-FAQs/. 
+

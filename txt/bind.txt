@@ -1,0 +1,8 @@
+
+ bind (DNS server and utilities) 
+ 
+ The named daemon and support utilities such as dig, host, and 
+ nslookup. Sample configuration files for running a simple caching 
+ nameserver are included. Documentation for advanced name server 
+ setup can be found in /usr/doc/bind-9.x.x/. 
+

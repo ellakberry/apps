@@ -1,0 +1,19 @@
+obe
+ obexfs (mount filesystem of ObexFTP capable devices) obe
+ obe
+ ObexFS uses FUSE to mount filesystems of ObexFTP capable devices obe
+ either manually or in autofs style mode. It can handle all devices obe
+ that the obexftp package can handle, connected via serial cable, obe
+ IrDA, bluetooth, or USB. obe
+ obe
+ http://dev.zuckschwerdt.org/openobex/wiki/ObexDownloads obe
+ 
+ xfs (font server for X11) 
+ 
+ xfs is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

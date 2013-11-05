@@ -1,0 +1,10 @@
+
+ kdegraphics-strigi-analyzer (graphics plugins for strigi) 
+ 
+ Graphics file format plugins for Strigi Desktop Search. 
+ These plugins allow Strigi Desktop Search to extract 
+ additional information about several document and graphic file 
+ formats. 
+ 
+ For more information, visit: http://www.kde.org 
+

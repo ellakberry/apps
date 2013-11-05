@@ -1,0 +1,12 @@
+
+ tftp-hpa (Trivial File Transfer Protocol) 
+ 
+ The Trivial File Transfer Protocol (TFTP) is normally used only for 
+ booting diskless workstations (or the Slackware installer). The tftp 
+ package provides the user interface for TFTP, which allows users to 
+ transfer files to and from a remote machine. This program and TFTP 
+ provide very little security, and should not be enabled unless it is 
+ expressly needed. 
+ 
+ tftp-hpa is maintained by H. Peter Anvin. 
+

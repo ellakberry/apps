@@ -1,0 +1,10 @@
+
+ xfsdump (backup tools for the XFS filesystem) 
+ 
+ The xfsdump package contains the xfsdump and xfsrestore utilities for 
+ backing up and restoring XFS partitions. xfsdump examines files in a 
+ filesystem, determines which need to be backed up, and copies those 
+ files to a specified disk, tape or other storage medium. xfsrestore 
+ performs the inverse function of xfsdump; it can restore a full 
+ or incremental backup of a filesystem. 
+

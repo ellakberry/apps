@@ -1,0 +1,11 @@
+
+ qtruby (Qt bindings for ruby) 
+ 
+ QtRuby is part of Korundum, very complete bindings to both the KDE 
+ API and the Qt APIs. The Korundum package includes both a QtRuby 
+ Qt-only binding along with the full combined Qt/KDE one. 
+ The QtRuby package contains just Qt bindings, with no dependency 
+ on KDE. 
+ 
+ For more information, see: http://rubyforge.org/projects/korundum/ 
+

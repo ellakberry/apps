@@ -1,0 +1,11 @@
+
+ dc3dd (version of dd designed for computer forensics) 
+ 
+ dc3dd is a patched version of GNU dd to include a number of features 
+ useful for computer forensics. Many of these features were inspired by 
+ dcfldd, but were rewritten for dc3dd. Added features include robust 
+ error handling, logging, progress meter, image verification, split 
+ output and more. 
+ 
+ http://dc3dd.sourceforge.net/ 
+

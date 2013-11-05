@@ -1,0 +1,6 @@
+
+ xcb-util-keysyms (keysyms library for XCB) 
+ 
+ xcb-util-keysyms provides the keysyms library, which handles 
+ standard X key constants and conversion to/from keycodes. 
+

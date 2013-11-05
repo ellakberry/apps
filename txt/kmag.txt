@@ -1,0 +1,7 @@
+
+ kmag (Screen magnifier) 
+ 
+ Magnifies a part of your screen. 
+ 
+ For more information, visit: http://www.kde.org 
+

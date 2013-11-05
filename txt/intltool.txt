@@ -1,0 +1,6 @@
+
+ intltool (Utilities for translation support) 
+ 
+ This package contains scripts and autoconf files for 
+ internationalizing data. 
+

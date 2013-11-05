@@ -1,0 +1,9 @@
+
+ dragon (KDE multimedia player) 
+ 
+ Dragon Player is a multimedia player where the focus is on simplicity, 
+ instead of features. Dragon Player does one thing, and only one 
+ thing, which is playing multimedia files. 
+ 
+ For more information, visit: http://www.kde.org 
+

@@ -1,0 +1,5 @@
+
+ randrproto (C prototypes for RandR) 
+ 
+ RandR is the X11 Resize and Rotate Extension 
+

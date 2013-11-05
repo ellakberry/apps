@@ -1,0 +1,12 @@
+
+ crda (Central Regulatory Domain Agent) 
+ 
+ This is the Central Regulatory Domain Agent for Linux. 
+ It serves one purpose: tell the Linux kernel what to enforce. 
+ In essence, it is a udev helper for communication between 
+ the kernel and userspace. 
+ 
+ You only need to run this manually for debugging purposes. 
+ 
+ http://wireless.kernel.org/download/crda/ 
+

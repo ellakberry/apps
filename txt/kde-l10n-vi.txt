@@ -1,0 +1,5 @@
+
+ kde-l10n-vi 
+ 
+ Vietnamese language support for KDE. 
+

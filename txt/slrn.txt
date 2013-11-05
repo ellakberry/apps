@@ -1,0 +1,9 @@
+
+ slrn (s-lang read news) 
+ 
+ slrn is an easy to use but powerful newsreader. It is highly 
+ customizable, supports scoring, free key bindings, and can be extended 
+ using the s-lang macro language. 
+ 
+ slrn was written and is maintained by John E. Davis. 
+

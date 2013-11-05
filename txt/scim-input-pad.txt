@@ -1,0 +1,8 @@
+
+ scim-input-pad (on-screen input pad for scim) 
+ 
+ This is scim-input-pad, which provides an on-screen input pad 
+ to enter symbols and Chinese characters. 
+ 
+ scim home: http://scim-im.org/ 
+

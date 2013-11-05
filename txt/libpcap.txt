@@ -1,0 +1,10 @@
+
+ libpcap (packet capture library) 
+ 
+ libpcap is a library for user-level packet capture. libpcap provides 
+ a portable framework for low-level network monitoring. Applications 
+ include network statistics collection, security monitoring, network 
+ debugging, etc. The tcpdump utility uses libpcap. 
+ 
+ Project homepage: http://sourceforge.net/projects/libpcap/ 
+

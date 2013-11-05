@@ -1,0 +1,7 @@
+
+ xfwm4-themes (themes for the Xfce window manager) 
+ 
+ This package contains a wide variety of themes for xfwm4, the window 
+ manager of the Xfce4 project. If the default theme is not to your 
+ liking, you'll probably find the eyecandy you're looking for here. 
+

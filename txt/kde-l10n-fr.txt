@@ -1,0 +1,5 @@
+
+ kde-l10n-fr 
+ 
+ French language support for KDE. 
+

@@ -1,0 +1,11 @@
+
+ x11-skel (Miscellaneous things required for X) 
+ 
+ These are some symlinks needed by X11 after moving some files and 
+ directories to conform with the Linux FHS. For example, the fonts 
+ are now in the /usr/share/fonts directory, and this package makes 
+ a symlink to there from /usr/lib/X11/fonts (the default location). 
+ An /etc/xdg directory (the default for XDG_CONFIG_DIRS in the 
+ XDG Base Directory Specification) is also contained in this package, 
+ as well as sample xorg.conf files and other scripts. 
+

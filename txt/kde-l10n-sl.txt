@@ -1,0 +1,5 @@
+
+ kde-l10n-sl 
+ 
+ Slovenian language support for KDE. 
+

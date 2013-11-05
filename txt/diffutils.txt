@@ -1,0 +1,6 @@
+
+ diffutils (finds differences between files) 
+ 
+ The GNU diff utilities finds differences between files. A major use 
+ for this package is to make source code patches. 
+

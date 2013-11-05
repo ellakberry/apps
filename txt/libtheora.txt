@@ -1,0 +1,12 @@
+
+ libtheora (Theora video codec library) 
+ 
+ Theora is Xiph.Org's first publicly released video codec, intended 
+ for use within the Foundation's Ogg multimedia streaming system. 
+ 
+ The Theora bitstream format was frozen after the alpha3 release. This 
+ means that files produced by the alpha3 encoder will always be 
+ playable according to the Theora I specification. Traditionally 
+ alpha means a proof of concept, not a production-ready release. 
+ However the code is very robust, ready for and indeed in general use. 
+

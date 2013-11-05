@@ -1,0 +1,9 @@
+
+ libmowgli (A useful collection of routines for programming) 
+ 
+ libmowgli is a class library containing performance and usability 
+ oriented extensions to C. 
+ 
+ libmowgli was written by Patrick McFarland, William Pitcock, 
+ Jonathan Schleifer, Pippijn van Steenhoven, and Jilles Tjoelker. 
+

@@ -1,0 +1,20 @@
+qt
+ qtruby (Qt bindings for ruby) qt
+ qt
+ QtRuby is part of Korundum, very complete bindings to both the KDE qt
+ API and the Qt APIs. The Korundum package includes both a QtRuby qt
+ Qt-only binding along with the full combined Qt/KDE one. qt
+ The QtRuby package contains just Qt bindings, with no dependency qt
+ on KDE. qt
+ qt
+ For more information, see: http://rubyforge.org/projects/korundum/ qt
+ 
+ ruby (Interpreted object-oriented scripting language) 
+ 
+ Ruby is an interpreted scripting language for quick and easy 
+ object-oriented programming. It has many features to process text 
+ files and to do system management tasks (as in Perl). It is simple, 
+ straight-forward, and extensible. 
+ 
+ Visit the Ruby project online at http://www.ruby-lang.org/ 
+

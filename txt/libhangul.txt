@@ -1,0 +1,9 @@
+
+ libhangul (Hangul keyboard input library) 
+ 
+ This library implements Hangul keyboard input with various types of 
+ Korean keyboards. It is intended to be a base library of Korean 
+ input methods on multiple platforms. 
+ 
+ libhangul home: http://code.google.com/p/libhangul/ 
+

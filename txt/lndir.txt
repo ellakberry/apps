@@ -1,0 +1,10 @@
+
+ lndir (create shadow directory of symbolic links to another directory) 
+ 
+ lndir is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

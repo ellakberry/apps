@@ -1,0 +1,8 @@
+
+ perlqt (Perl OO interface to Qt) 
+ 
+ A Perl Object Oriented interface to the Qt GUI Toolkit. 
+ Access to the KDE Desktop Environment libraries is planned as well. 
+ 
+ For more information, visit: http://perlqt.sourceforge.net 
+

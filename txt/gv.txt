@@ -1,0 +1,10 @@
+
+ gv (PS/PDF file viewer) 
+ 
+ gv is a PostScript and PDF previewer. It allows users to view and 
+ navigate through PostScript and PDF documents on an X display by 
+ providing a user interface for the ghostscript interpreter. 
+ 
+ gv was written by Johannes Plass, using the source code for Tim 
+ Theisen's ghostview 1.5 as a starting point. 
+

@@ -1,0 +1,5 @@
+
+ kde-l10n-pt_BR 
+ 
+ Brazilian Portuguese language support for KDE. 
+

@@ -1,0 +1,7 @@
+
+ oxygen-icons (Oxygen theme for the KDE Plasma Desktop) 
+ 
+ Oxygen provides a complete and modern icon theme for KDE. 
+ 
+ Visit the Oxygen project online: http://www.oxygen-icons.org 
+

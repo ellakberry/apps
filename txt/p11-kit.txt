@@ -1,0 +1,12 @@
+
+ p11-kit (PKCS#11 toolkit) 
+ 
+ p11-kit provides a way to load and enumerate PKCS#11 modules. 
+ 
+ It provides a standard configuration setup for installing PKCS#11 
+ modules in such a way that they're discoverable. It also solves 
+ problems with coordinating the use of PKCS#11 by different components 
+ or libraries living in the same process. 
+ 
+ Homepage: http://p11-glue.freedesktop.org/p11-kit.html 
+

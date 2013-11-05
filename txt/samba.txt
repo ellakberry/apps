@@ -1,0 +1,12 @@
+
+ samba (CIFS file and print server) 
+ 
+ Samba is a CIFS file and print server for CIFS clients. It allows 
+ you to make file space or printers on a Samba host available to CIFS 
+ clients (such as PCs running Windows). 
+ 
+ If you have any Windows file servers, you may be able to replace them 
+ or supplement them with Samba. One of Samba's big strengths is 
+ integration, so you can use it to tie together your Linux hosts and 
+ Windows PC clients. 
+

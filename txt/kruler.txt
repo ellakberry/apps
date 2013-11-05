@@ -1,0 +1,7 @@
+
+ kruler (a screen ruler for KDE) 
+ 
+ A screen ruler and color measurement tool for KDE. 
+ 
+ For more information, visit: http://www.kde.org 
+

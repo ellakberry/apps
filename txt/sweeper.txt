@@ -1,0 +1,7 @@
+
+ sweeper (remove traces of your activities) 
+ 
+ Sweeper helps to clean unwanted traces the user leaves on the system. 
+ 
+ Home page: https://projects.kde.org/projects/kde/kdeutils/sweeper 
+

@@ -1,0 +1,8 @@
+
+ Eigen2 (c++ math library) 
+ 
+ Eigen 2 is a lightweight C++ template library for vector and matrix 
+ math, a.k.a. linear algebra. 
+ 
+ See the website: http://eigen.tuxfamily.org 
+

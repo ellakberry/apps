@@ -1,0 +1,7 @@
+
+ perlkde (perl bindings for KDE) 
+ 
+ Perl bindings for KDE. 
+ 
+ For more information, visit: http://www.kde.org 
+

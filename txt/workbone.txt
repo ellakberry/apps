@@ -1,0 +1,6 @@
+
+ workbone (text-based CD player) 
+ 
+ WorkBone is a simple interactive tool for for playing audio CDs from 
+ the Linux console. 
+

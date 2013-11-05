@@ -1,0 +1,11 @@
+
+ vlan (VLAN (802.1q) configuration program) 
+ 
+ The vlan package contains the vconfig program, which allows you to 
+ create and remove VLAN devices on a VLAN enabled kernel. VLAN 
+ devices are virtual Ethernet devices which represent virtual LANs on 
+ the physical LAN. 
+ 
+ vlan is primarily the work of Alex Zeffertt, Cambridge Broadband Ltd, 
+ extensively rewritten by Ben Greear. 
+

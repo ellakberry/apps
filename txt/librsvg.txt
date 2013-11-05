@@ -1,0 +1,5 @@
+
+ librsvg (SVG library) 
+ 
+ Library for handling SVG (Scalable Vector Graphics). 
+

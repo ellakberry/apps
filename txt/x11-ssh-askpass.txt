@@ -1,0 +1,6 @@
+
+ x11-ssh-askpass (an X11-based passphrase dialog) 
+ 
+ x11-ssh-askpass is an X11-based passphrase dialog for use with 
+ OpenSSH. 
+

@@ -1,0 +1,8 @@
+
+ clucene (Text-Search Engine) 
+ 
+ CLucene is a C++ port of Lucene. It is a high-performance, 
+ full-featured text search engine written in C++. 
+ 
+ Homepage: http://clucene.sourceforge.net 
+

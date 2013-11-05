@@ -1,0 +1,7 @@
+
+ kollision (simple ball dodging game) 
+ 
+ Kollision is a simple ball dodging game. 
+ 
+ For more information, visit: http://www.kde.org 
+

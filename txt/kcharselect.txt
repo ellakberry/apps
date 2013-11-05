@@ -1,0 +1,8 @@
+
+ kcharselect (character picker) 
+ 
+ KCharSelect is a tool to select special characters from all 
+ installed fonts and copy them into the clipboard. 
+ 
+ kcharselect's home page: http://utils.kde.org/projects/kcharselect 
+

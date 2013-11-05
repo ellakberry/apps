@@ -1,0 +1,11 @@
+
+ slacktrack (Slackware package building utilities) 
+ 
+ slacktrack tracks the installation of a 'make install' (or similar) 
+ and produces a Slackware compliant package from the results. 
+ 
+ slacktrack can be used to build packages from Slackware's '.build' 
+ scripts or your own. 
+ 
+ slacktrack tracks installations directly on the host's filesystem. 
+

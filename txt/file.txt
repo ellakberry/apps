@@ -1,0 +1,48 @@
+audio
+ audiofile (audio support library) audio
+ audio
+ Audiofile is a library to handle various audio file formats, and is audio
+ used by the esound daemon. You can also use it to develop your own audio
+ audiofile applications. audio
+ 
+ file (a utility to determine file type) 
+ 
+ This is Ian F. Darwin's 'file' utility, used to identify files. 
+ Christos Zoulas has been file's maintainer since 1994. 
+ 
+ Home FTP site: ftp://ftp.astron.com/pub/file/ 
+ glibc-pro
+ glibc-profile (GNU C libraries with profiling support) glibc-pro
+ glibc-pro
+ This package contains static versions of the GNU C libraries with glibc-pro
+ support for profiling binaries using gprof. gprof calculates how glibc-pro
+ much time a program spends in each routine which can suggest where glibc-pro
+ to concentrate efforts to improve performance. glibc-pro
+ glibc-pro
+ See the gprof man page for more details. glibc-pro
+ libsnd
+ libsndfile (C library for reading and writing wav files) libsnd
+ libsnd
+ Libsndfile is a C library for reading and writing files containing libsnd
+ sampled sound (such as MS Windows WAV and Apple/SGI AIFF format). libsnd
+ libsnd
+ Homepage: http://www.mega-nerd.com/libsndfile/ libsnd
+ libxkb
+ libxkbfile (X11 keyboard file manipulation library) libxkb
+ libxkb
+ libxkbfile is part of X11. libxkb
+ libxkb
+ For more information about the X.Org Foundation (the providers of the libxkb
+ X.Org implementation of the X Window System), see their website: libxkb
+ libxkb
+ http://www.x.org libxkb
+ opro
+ oprofile (system profiling tool) opro
+ opro
+ OProfile is a profiling system for Linux. Profiling runs opro
+ transparently in the background and profile data can be collected opro
+ at any time. OProfile makes use of the hardware performance opro
+ counters provided on Intel, AMD, and other processors, and uses a opro
+ timer-interrupt based mechanism on CPUs without counters. opro
+ OProfile can profile the whole system in high detail. opro
+

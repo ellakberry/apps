@@ -1,0 +1,6 @@
+
+ kdetoys (Toys for the KDE Software Compilation) 
+ 
+ Some toys for the KDE Software Compilation such as amor, kteatime, 
+ ktux, kweatherreport, and kweatherservice. 
+

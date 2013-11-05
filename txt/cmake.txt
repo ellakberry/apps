@@ -1,0 +1,10 @@
+
+ CMake (cross-platform, open-source make system) 
+ 
+ CMake is used to control the software process using simple platform 
+ and compiler independent configuration files. CMake generates 
+ native makefiles and workspaces that can be used in the 
+ compiler environment of your choice. 
+ 
+ CMake's home on the web is: http://www.cmake.org 
+

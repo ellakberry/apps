@@ -1,0 +1,21 @@
+
+ ktorrent (KDE BitTorrent program) 
+ 
+ KTorrent is a BitTorrent program with many features: 
+ Download torrent files (of course :-), upload and download speed 
+ capping, Internet searching, UDP trackers, port forwarding with UPnP, 
+ IP blocking, importing of partially or fully downloaded files, 
+ support for distributed hash tables, protocol encryption, 
+ bandwidth scheduling, and much more. 
+ 
+ KTorrent's developers are Joris Guisson and Ivan Vasic. 
+ lib
+ libktorrent (Protocol library for the KDE BitTorrent program) lib
+ lib
+ Libktorrent is the BitTorrent protocol library for ktorrent, which lib
+ contains all the torrent downloading code. Although it is closely lib
+ to ktorrent, the goal is to make libktorrent an independent lib
+ library which can be used by other applications. lib
+ lib
+ Homepage: http://ktorrent.org lib
+

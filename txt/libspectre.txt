@@ -1,0 +1,8 @@
+
+ libspectre (ghostscript wrapper library) 
+ 
+ libspectre is a small wrapper library for ghostscript, which is 
+ used for rendering Postscript documents. The goal of libspectre 
+ is to provide a convenient, easy to use API for writing programs 
+ which handle and render Postscript documents. 
+

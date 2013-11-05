@@ -1,0 +1,24 @@
+libk
+ libksane (KDE scan support interface) libk
+ libk
+ Libksane is a library to add scan support to KDE applications. libk
+ libk
+ For more information, visit: http://www.kde.org libk
+ 
+ sane (Scanner Access Now Easy) 
+ 
+ SANE is a universal scanner interface that provides standardized 
+ access to any raster image scanner hardware, such as flatbed scanners, 
+ hand-held scanners, video and still cameras, frame-grabbers, and other 
+ similar devices. 
+ x
+ xsane (Graphical frontend to SANE, Scanner Access Now Easy) x
+ x
+ xsane provides a graphical user-interface to control an image x
+ acquisition device such as a flatbed scanner. It allows previewing x
+ and scanning individual images and can be invoked either directly x
+ from the command-line or through the GIMP image manipulation program. x
+ x
+ xsane accesses image acquisition devices through the SANE (Scanner x
+ Access Now Easy) interface. x
+

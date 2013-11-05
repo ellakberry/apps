@@ -1,0 +1,12 @@
+
+ xfce4-volumed (audio volume management daemon) 
+ 
+ This daemon is responsible for making the volume up/down and mute 
+ keys of the keyboard work automatically, and uses the XFCE mixer's 
+ defined card and track for choosing which track to act on. 
+ 
+ It also provides volume change and mute toggle notifications if 
+ a notification daemon is running (using libnotify). 
+ 
+ Homepage: https://launchpad.net/xfce4-volumed 
+

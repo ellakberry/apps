@@ -1,0 +1,7 @@
+
+ procps (utilities for displaying process information) 
+ 
+ The procps package provides the classic set of utilities used to 
+ display information about the processes currently running on the 
+ machine. 
+

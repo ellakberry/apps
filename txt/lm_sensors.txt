@@ -1,0 +1,12 @@
+
+ lm_sensors (hardware monitoring package) 
+ 
+ lm_sensors provides tools for monitoring the temperatures, voltages, 
+ and fans of Linux systems with hardware monitoring devices. Included 
+ are text-based tools for sensor reporting, and a library for sensors 
+ access called libsensors. It also contains tools for sensor hardware 
+ identification and I2C bus probing. 
+ 
+ IMPORTANT NOTE: If you have a Thinkpad, please read the warnings in 
+ the README.thinkpad file. lm_sensors has been known to cause damage 
+ to some Thinkpads.

@@ -1,0 +1,6 @@
+
+ kdepimlibs (Libraries for KDE-PIM) 
+ 
+ This module includes libraries that are central to the development and 
+ execution of a KDE-PIM application. 
+

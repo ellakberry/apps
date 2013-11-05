@@ -1,0 +1,16 @@
+
+ kmahjongg (KDE port of Mahjongg game) 
+ 
+ KMahjongg is a clone of the well known tile based patience game of 
+ the same name. In the game you have to empty a game board filled 
+ with pieces, by pairwise removal of pieces of the same type. 
+ 
+ For more information, visit: http://www.kde.org 
+ lib
+ libkmahjongg (library for rendering of Mahjongg tilesets) lib
+ lib
+ libkmahjongg is a library used by several KDE games for loading lib
+ and rendering of Mahjongg tilesets. lib
+ lib
+ For more information, visit: http://www.kde.org lib
+

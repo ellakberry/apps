@@ -1,0 +1,12 @@
+
+ ksh (AT&T Korn Shell 93) 
+ 
+ The KornShell language and interactive shell were designed by 
+ David G. Korn at AT&T Bell Laboratories. Besides offering a powerful 
+ interactive shell, it also offers a robust programming language with 
+ such features as associative arrays and built in integer math 
+ operations. ksh is an excellent choice for system administration 
+ scripts and for everyday interactive use. 
+ 
+ The official site for the Korn Shell is http://www.kornshell.com/ 
+

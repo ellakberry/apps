@@ -1,0 +1,12 @@
+
+ texinfo (GNU software documentation system) 
+ 
+ 'Texinfo' is a documentation system that uses a single source file to 
+ produce both on-line information and printed output. Using Texinfo, 
+ you can create a printed document with the normal features of a book, 
+ including chapters, sections, cross references, and indices. From the 
+ same Texinfo source file, you can create a menu-driven, on-line Info 
+ file with nodes, menus, cross references, and indices. 
+ 
+ This package is needed to read the documentation files in /usr/info. 
+

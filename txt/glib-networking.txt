@@ -1,0 +1,5 @@
+
+ glib-networking (network-related giomodules for glib) 
+ 
+ This package contains network-related giomodules for glib. 
+

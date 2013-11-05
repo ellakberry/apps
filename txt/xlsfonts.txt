@@ -1,0 +1,6 @@
+
+ xlsfonts (X11 font utility to list available fonts) 
+ 
+ xlsfonts lists fonts available from an X server via the X11 core 
+ protocol. 
+

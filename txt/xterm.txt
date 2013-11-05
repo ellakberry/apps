@@ -1,0 +1,7 @@
+
+ xterm (terminal emulator for X) 
+ 
+ The xterm program is a terminal emulator for the X Window System. 
+ It provides DEC VT102/VT220 (VTxxx) and Tektronix 4014 compatible 
+ terminals for programs that cannot use the window system directly. 
+

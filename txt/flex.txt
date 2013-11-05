@@ -1,0 +1,8 @@
+
+ flex (fast lexical analyzer generator) 
+ 
+ flex is a tool for generating programs that perform pattern matching 
+ on text. flex is a rewrite of the AT&T Unix lex tool (the two 
+ implementations do not share any code, though), with some extensions 
+ (and incompatibilities). 
+

@@ -1,0 +1,18 @@
+
+ anthy (a system for Japanese input method) 
+ 
+ Anthy is a library for Japanese text input. It converts Hiragana text 
+ to Kana Kanji mixed text. 
+ 
+ anthy home: http://anthy.sourceforge.jp/ 
+ scim-
+ scim-anthy (a SCIM IMEngine module for anthy) scim-
+ scim-
+ SCIM is Smart Common Input Method platform, it provides a user scim-
+ friendly and full featured user interface and development platform to scim-
+ make input method developer's lives easier. Anthy is a system for scim-
+ Japanese input method. It converts Hiragana text to Kana Kanji scim-
+ mixed text. scim-
+ scim-
+ scim-anthy home: http://scim-imengine.sourceforge.jp/ scim-
+

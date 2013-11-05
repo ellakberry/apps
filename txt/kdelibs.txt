@@ -1,0 +1,5 @@
+
+ kdelibs (KDE libraries) 
+ 
+ System libraries and other resources required for the KDE Platform. 
+

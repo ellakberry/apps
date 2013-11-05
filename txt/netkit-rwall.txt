@@ -1,0 +1,11 @@
+
+ netkit-rwall (send a message to all users) 
+ 
+ The rwall command sends a message to the users logged into the 
+ specified host. The message to be sent can be typed in and 
+ terminated with EOF or it can be in a file. 
+ 
+ Run the rpc.rwalld daemon with caution. It may be insecure. 
+ 
+ The rwall command appeared in SunOS. 
+

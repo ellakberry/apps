@@ -1,0 +1,10 @@
+
+ jasper (free implementation of the JPEG-2000 standard) 
+ 
+ The JasPer Project is an open-source initiative to provide a free 
+ software-based reference implementation of the codec specified in the 
+ JPEG-2000 Part-1 standard (i.e., ISO/IEC 15444-1).
+ 
+ 
+ jasper home: http://www.ece.uvic.ca/~mdadams/jasper/ 
+

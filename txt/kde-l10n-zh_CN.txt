@@ -1,0 +1,5 @@
+
+ kde-l10n-zh_CN 
+ 
+ Simplified Chinese language support for KDE. 
+

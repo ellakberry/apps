@@ -1,0 +1,12 @@
+
+ libnjb (A library for Creative Nomad related media devices) 
+ 
+ libnjb is a C library and API for communicating with the Creative 
+ Nomad JukeBox and Dell DJ digital audio players under BSD, Linux, 
+ Mac OS X, and Windows. The protocol these devices use is presumably 
+ called PDE (Portable Digital Entertainment protocol) at Creative. 
+ Newer devices using the Microsoft MTP (Media Transfer Protocol) 
+ are NOT supported. 
+ 
+ Home page: http://libnjb.sourceforge.net 
+

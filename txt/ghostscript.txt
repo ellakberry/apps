@@ -1,0 +1,10 @@
+
+ ghostscript (Postscript and PDF interpreter) 
+ 
+ Ghostscript is an interpreter of Adobe Systems' PostScript(tm) 
+ and Portable Document Format (PDF) languages. Ghostscript is an 
+ essential part of the printing subsystem, taking PostScript output 
+ from applications and converting it into an appropriate printer or 
+ display format. Ghostscript supports many printers directly, and 
+ more are supported through add-on packages. 
+

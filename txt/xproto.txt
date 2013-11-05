@@ -1,0 +1,19 @@
+dm
+ dmxproto dm
+ dm
+ dmxproto is part of X11. dm
+ dm
+ For more information about the X.Org Foundation (the providers of the dm
+ X.Org implementation of the X Window System), see their website: dm
+ dm
+ http://www.x.org dm
+ 
+ xproto (C prototypes for X Window System Core Protocol) 
+ 
+ xproto is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

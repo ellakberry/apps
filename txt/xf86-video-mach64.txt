@@ -1,0 +1,10 @@
+
+ xf86-video-mach64 (ATI Mach64 driver for the Xorg X server) 
+ 
+ xf86-video-mach64 is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

@@ -1,0 +1,7 @@
+
+ kcolorchooser (color chooser) 
+ 
+ A color chooser application for KDE. 
+ 
+ For more information, visit: http://www.kde.org 
+

@@ -1,0 +1,5 @@
+
+ orage (Xfce's calendar) 
+ 
+ Orage is a time-managing application for the Xfce desktop environment. 
+

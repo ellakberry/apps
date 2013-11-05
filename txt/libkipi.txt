@@ -1,0 +1,9 @@
+
+ libKipi (KDE Image Plugin Interface) 
+ 
+ This package provides a generic KDE Image Plug-in Interface used by 
+ some KDE image applications. 
+ Plug-ins for this interface are in the kipi-plugins package. 
+ 
+ For more info, visit: http://www.kipi-plugins.org/ 
+

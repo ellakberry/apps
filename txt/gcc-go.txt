@@ -1,0 +1,12 @@
+
+ gcc-go (Go support for GCC) 
+ 
+ Go is a compiled, garbage-collected, concurrent programming language 
+ developed by Google Inc. The initial design of Go was started in 
+ September 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. 
+ Rob Pike has stated that Go is being used "for real stuff" at Google. 
+ Go's "gc" compiler targets the Linux, Mac OS X, FreeBSD, OpenBSD and 
+ Microsoft Windows operating systems, and the i386, amd64, and ARM 
+ processor architectures. 
+ 
+ Homepage: http://golang.org

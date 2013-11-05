@@ -1,0 +1,9 @@
+
+ hdparm (read/set hard drive parameters) 
+ 
+ hdparm provides a command line interface to various hard disk ioctls 
+ supported by the Linux ATA/IDE device driver subsystem. This may be 
+ required to enable higher-performing disk modes. 
+ 
+ hdparm was written by Mark Lord. 
+

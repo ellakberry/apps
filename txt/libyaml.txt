@@ -1,0 +1,8 @@
+
+ libyaml (YAML parser, written in C) 
+ 
+ YAML Ain't Markup Language. It is a human friendly data serialization 
+ standard for all programming languages. 
+ 
+ Homepage: http://pyyaml.org/wiki/LibYAML 
+

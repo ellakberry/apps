@@ -1,0 +1,11 @@
+
+ mtx (Controls tape autochangers) 
+ 
+ The MTX program controls the robotic mechanism in autoloaders and 
+ tape libraries such as the HP SureStore DAT 40x6, Exabyte EZ-17, and 
+ Exabyte 220. 
+ 
+ This program is also reported to work with a variety of other tape 
+ libraries and autochangers from Tandberg/Overland, Breece Hill, HP, 
+ Seagate, Dell and Quantum. 
+

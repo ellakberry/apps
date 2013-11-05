@@ -1,0 +1,10 @@
+
+ lesstif (a free replacement for OSF/Motif(R)) 
+ 
+ LessTif is the Hungry Programmers' (www.hungry.com) free clone of 
+ Motif(R). It aims to be source compatible with OSF/Motif(R) meaning 
+ that the same source code should compile with both and work exactly 
+ the same. This package contains the libraries and header files to 
+ be able to run and compile Motif applications, along with the lesstif 
+ version of mwm, the Motif window manager. 
+

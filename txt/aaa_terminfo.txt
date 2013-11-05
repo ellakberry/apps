@@ -1,0 +1,10 @@
+
+ aaa_terminfo (a basic collection of terminfo entries) 
+ 
+ This is a starter set of files from the terminfo database, which 
+ should be enough in most cases. The complete set (from which this 
+ is derived) can be found in the ncurses package. 
+ 
+ The terminfo database describes the characteristics of terminals, so 
+ don't try to log in without this package. :-) 
+

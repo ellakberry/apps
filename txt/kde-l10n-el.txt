@@ -1,0 +1,5 @@
+
+ kde-l10n-el 
+ 
+ Greek language support for KDE. 
+

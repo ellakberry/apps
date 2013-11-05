@@ -1,0 +1,9 @@
+
+ kpat (patience card game for KDE) 
+ 
+ KPat (aka KPatience) is a relaxing card sorting game. To win the game 
+ a player has to arrange a single deck of cards in certain order 
+ amongst each other. 
+ 
+ For more information, visit: http://www.kde.org 
+

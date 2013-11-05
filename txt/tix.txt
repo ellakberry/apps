@@ -1,0 +1,9 @@
+
+ tix (an extension to the Tk toolkit) 
+ 
+ Tix, which stands for Tk Interface Extension, is an extension library 
+ for Tcl/Tk. Tix adds many new widgets, image types and other commands 
+ that allows you to create compelling Tcl/Tk-based GUI applications. 
+ With these new widgets, your applications will look great and interact 
+ with your users in intuitive ways. 
+

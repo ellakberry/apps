@@ -1,0 +1,7 @@
+
+ okular (a document viewer) 
+ 
+ Okular is a document viewer for KDE. 
+ 
+ For more information, visit: http://www.kde.org 
+

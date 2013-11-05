@@ -1,0 +1,12 @@
+
+ net-snmp (Simple Network Management Protocol tools) 
+ 
+ Various tools relating to the Simple Network Management Protocol: 
+ 
+ An extensible agent 
+ An SNMP library 
+ Tools to request or set information from SNMP agents 
+ Tools to generate and handle SNMP traps 
+ A version of the UNIX 'netstat' command using SNMP 
+ A graphical Perl/Tk/SNMP based mib browser 
+

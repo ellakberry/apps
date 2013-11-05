@@ -1,0 +1,6 @@
+
+ kaudiocreator (CD ripper and audio encoder) 
+ 
+ kaudiocreater is a KDE frontend for ripping and encoding audio 
+ to/from optical media. 
+

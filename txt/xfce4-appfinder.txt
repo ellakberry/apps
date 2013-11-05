@@ -1,0 +1,8 @@
+
+ xfce4-appfinder (Application finder) 
+ 
+ The Xfce application finder is a tool to find and launch installed 
+ applications on your system and execute commands. It can also be used 
+ to quickly add launchers to the Xfce Panel by dragging an item from 
+ the view and dropping it on the panel. 
+

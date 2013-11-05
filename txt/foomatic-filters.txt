@@ -1,0 +1,11 @@
+
+ foomatic-filters (Universal print filter/RIP wrapper) 
+ 
+ foomatic-rip is a universal print filter, which is used by CUPS with 
+ the gutenprint and hplip printer drivers. It translates PostScript 
+ (and also other file formats) to the printer's native language, 
+ usually using Ghostscript (gs) as the external renderer. The way 
+ this translation is done is described in a PPD file. 
+ 
+ For more information on foomatic, see: http://linuxprinting.org 
+

@@ -1,0 +1,7 @@
+
+ tcl (Tool Command Language) 
+ 
+ Tcl, developed by Dr. John Ousterhout, is a simple to use text-based 
+ script language with many built-in features which make it especially 
+ nice for writing interactive scripts. 
+

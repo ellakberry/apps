@@ -1,0 +1,7 @@
+
+ ksirk (KDE port of the board game risk) 
+ 
+ Ksirk is a KDE port of the board game risk. 
+ 
+ For more information, visit: http://www.kde.org 
+

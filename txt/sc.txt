@@ -1,0 +1,128 @@
+font-arabic-mi
+ font-arabic-misc font-arabic-mi
+ font-arabic-mi
+ font-arabic-misc is part of X11. font-arabic-mi
+ font-arabic-mi
+ For more information about the X.Org Foundation (the providers of the font-arabic-mi
+ X.Org implementation of the X Window System), see their website: font-arabic-mi
+ font-arabic-mi
+ http://www.x.org font-arabic-mi
+ font-cursor-mi
+ font-cursor-misc font-cursor-mi
+ font-cursor-mi
+ font-cursor-misc is part of X11. font-cursor-mi
+ font-cursor-mi
+ For more information about the X.Org Foundation (the providers of the font-cursor-mi
+ X.Org implementation of the X Window System), see their website: font-cursor-mi
+ font-cursor-mi
+ http://www.x.org font-cursor-mi
+ font-daewoo-mi
+ font-daewoo-misc font-daewoo-mi
+ font-daewoo-mi
+ font-daewoo-misc is part of X11. font-daewoo-mi
+ font-daewoo-mi
+ For more information about the X.Org Foundation (the providers of the font-daewoo-mi
+ X.Org implementation of the X Window System), see their website: font-daewoo-mi
+ font-daewoo-mi
+ http://www.x.org font-daewoo-mi
+ font-dec-mi
+ font-dec-misc font-dec-mi
+ font-dec-mi
+ font-dec-misc is part of X11. font-dec-mi
+ font-dec-mi
+ For more information about the X.Org Foundation (the providers of the font-dec-mi
+ X.Org implementation of the X Window System), see their website: font-dec-mi
+ font-dec-mi
+ http://www.x.org font-dec-mi
+ font-isas-mi
+ font-isas-misc font-isas-mi
+ font-isas-mi
+ font-isas-misc is part of X11. font-isas-mi
+ font-isas-mi
+ For more information about the X.Org Foundation (the providers of the font-isas-mi
+ X.Org implementation of the X Window System), see their website: font-isas-mi
+ font-isas-mi
+ http://www.x.org font-isas-mi
+ font-jis-mi
+ font-jis-misc font-jis-mi
+ font-jis-mi
+ font-jis-misc is part of X11. font-jis-mi
+ font-jis-mi
+ For more information about the X.Org Foundation (the providers of the font-jis-mi
+ X.Org implementation of the X Window System), see their website: font-jis-mi
+ font-jis-mi
+ http://www.x.org font-jis-mi
+ font-micro-mi
+ font-micro-misc font-micro-mi
+ font-micro-mi
+ font-micro-misc is part of X11. font-micro-mi
+ font-micro-mi
+ For more information about the X.Org Foundation (the providers of the font-micro-mi
+ X.Org implementation of the X Window System), see their website: font-micro-mi
+ font-micro-mi
+ http://www.x.org font-micro-mi
+ font-misc-mi
+ font-misc-misc font-misc-mi
+ font-misc-mi
+ font-misc-misc is part of X11. font-misc-mi
+ font-misc-mi
+ For more information about the X.Org Foundation (the providers of the font-misc-mi
+ X.Org implementation of the X Window System), see their website: font-misc-mi
+ font-misc-mi
+ http://www.x.org font-misc-mi
+ font-mutt-mi
+ font-mutt-misc font-mutt-mi
+ font-mutt-mi
+ font-mutt-misc is part of X11. font-mutt-mi
+ font-mutt-mi
+ For more information about the X.Org Foundation (the providers of the font-mutt-mi
+ X.Org implementation of the X Window System), see their website: font-mutt-mi
+ font-mutt-mi
+ http://www.x.org font-mutt-mi
+ font-schumacher-mi
+ font-schumacher-misc font-schumacher-mi
+ font-schumacher-mi
+ font-schumacher-misc is part of X11. font-schumacher-mi
+ font-schumacher-mi
+ For more information about the X.Org Foundation (the providers of the font-schumacher-mi
+ X.Org implementation of the X Window System), see their website: font-schumacher-mi
+ font-schumacher-mi
+ http://www.x.org font-schumacher-mi
+ font-sony-mi
+ font-sony-misc font-sony-mi
+ font-sony-mi
+ font-sony-misc is part of X11. font-sony-mi
+ font-sony-mi
+ For more information about the X.Org Foundation (the providers of the font-sony-mi
+ X.Org implementation of the X Window System), see their website: font-sony-mi
+ font-sony-mi
+ http://www.x.org font-sony-mi
+ font-sun-mi
+ font-sun-misc font-sun-mi
+ font-sun-mi
+ font-sun-misc is part of X11. font-sun-mi
+ font-sun-mi
+ For more information about the X.Org Foundation (the providers of the font-sun-mi
+ X.Org implementation of the X Window System), see their website: font-sun-mi
+ font-sun-mi
+ http://www.x.org font-sun-mi
+ libXxf86mi
+ libXxf86misc (Extension library for the XFree86-Misc X extension) libXxf86mi
+ libXxf86mi
+ libXxf86misc is part of X11. libXxf86mi
+ libXxf86mi
+ For more information about the X.Org Foundation (the providers of the libXxf86mi
+ X.Org implementation of the X Window System), see their website: libXxf86mi
+ libXxf86mi
+ http://www.x.org libXxf86mi
+ libkcompactdi
+ libkcompactdisc (KDE library for playing & ripping CDs) libkcompactdi
+ libkcompactdi
+ A KDE library for playing & ripping CDs. libkcompactdi
+ libkcompactdi
+ For more information, visit: http://www.kde.org libkcompactdi
+ 
+ sc (spreadsheet calculator) 
+ 
+ This is a simple curses-based spreadsheet program. 
+

@@ -1,0 +1,14 @@
+
+ GNOME Keyring (a tool to handle security credentials) 
+ 
+ GNOME Keyring is a program designed to take care of the user's 
+ security credentials, such as user names and passwords, in an 
+ easy to access manner. The keyring is implemented as a daemon 
+ and uses the process name gnome-keyring-daemon. 
+ lib
+ libgnome-keyring (gnome-keyring library) lib
+ lib
+ gnome-keyring is a program that keep password and other secrets lib
+ for users. The library libgnome-keyring is used by applications lib
+ to integrate with the gnome keyring system. lib
+

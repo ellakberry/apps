@@ -1,0 +1,9 @@
+
+ mplayerthumbs (video thumbnail generator) 
+ 
+ MPlayerThumbs is a video thumbnail generator for KDE file managers 
+ like Dolphin and Konqueror. It enables them to show preview images 
+ of video files. 
+ 
+ For more information, visit: http://www.kde.org 
+

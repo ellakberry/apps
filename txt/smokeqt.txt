@@ -1,0 +1,7 @@
+
+ smokeqt (bindings for Qt libraries) 
+ 
+ This package includes bindings for Qt libraries. 
+ 
+ For more information, visit: http://www.kde.org 
+

@@ -1,0 +1,12 @@
+
+ Lynx (text mode browser) 
+ 
+ Lynx is a distributed hypertext browser with full World Wide Web 
+ capabilities. Lynx can be used to access information on the World 
+ Wide Web, or to build information systems intended primarily for local 
+ access. For example, Lynx has been used to build several Campus Wide 
+ Information Systems (CWIS). 
+ 
+ Lynx's authors include Lou Montulli, Garrett Blythe, Craig Lavender, 
+ Michael Grobe, and Charles Rezac. 
+

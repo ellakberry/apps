@@ -1,0 +1,12 @@
+
+ system-config-printer (CUPS printer administration tool) 
+ 
+ The purpose of the tool is to configure a CUPS server (often the local 
+ machine) using the CUPS API. The tool is written in Python, using 
+ pygtk for the graphical parts and Python bindings (pycups) for the 
+ CUPS API. It is largely the same as using the CUPS web interface for 
+ configuring printers, but has the advantage of being a native 
+ application rather than a web page. 
+ 
+ Home: http://cyberelk.net/tim/software/system-config-printer/ 
+

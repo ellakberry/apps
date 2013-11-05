@@ -1,0 +1,8 @@
+
+ pcmciautils (Utilities for using PCMCIA cards with 2.6+ kernels) 
+ 
+ This package provides PCMCIA tools that replace the pcmcia-cs tools 
+ used with the 2.4.x Linux kernel. PCMCIA cards are commonly used 
+ in laptops to provide expanded capabilities such as network 
+ connections, modems, increased memory, and more. 
+

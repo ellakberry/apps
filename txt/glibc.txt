@@ -1,0 +1,10 @@
+
+ glibc (GNU C libraries) 
+ 
+ This package contains the GNU C libraries and header files. The GNU 
+ C library was written originally by Roland McGrath, and is currently 
+ maintained by Ulrich Drepper. Some parts of the library were 
+ contributed or worked on by other people. 
+ 
+ You'll need this package to compile programs. 
+

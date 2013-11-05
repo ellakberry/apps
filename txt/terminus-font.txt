@@ -1,0 +1,10 @@
+
+ terminus-font (a clean fixed width font) 
+ 
+ Terminus Font is designed for long (8 and more hours per day) 
+ work with computers. It is a good choice if you run a Unicode-enabled 
+ console but the package also contains a non-scalable Unicode-enabled 
+ font for use in X terminal applications. 
+ 
+ terminus-font home: http://terminus-font.sourceforge.net 
+

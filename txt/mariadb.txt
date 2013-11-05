@@ -1,0 +1,9 @@
+
+ mariadb (Drop-in replacement for the MySQL Database Server) 
+ 
+ MariaDB is a backward compatible, drop-in replacement branch of the 
+ MySQL(R) Database Server. It includes all major open source storage 
+ engines, including the Aria storage engine. 
+ 
+ Homepage: http://mariadb.org/ 
+

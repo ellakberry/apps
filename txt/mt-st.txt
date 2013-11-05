@@ -1,0 +1,10 @@
+
+ mt-st (controls magnetic tape drive operation) 
+ 
+ This mt originates from BSD NET-2. Some Linux SCSI tape-specific 
+ ioctls have been added to the original source and the man page has 
+ been updated. Although this mt program is tailored for SCSI tape, it 
+ can also be used with the QIC-02 driver and hopefully with other Linux 
+ tape drivers using the same ioctls (some of the commands may not work 
+ with all drivers). 
+

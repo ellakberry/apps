@@ -1,0 +1,7 @@
+
+ audiocd-kio (audiocd kio slave) 
+ 
+ Audiocd kio slave. 
+ 
+ For more information, visit: http://www.kde.org 
+

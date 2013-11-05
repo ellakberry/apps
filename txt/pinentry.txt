@@ -1,0 +1,8 @@
+
+ pinentry (PIN Entry dialogs) 
+ 
+ This is a collection of simple PIN or passphrase entry dialogs which 
+ utilize the Assuan protocol as described by the aegypten project. 
+ 
+ See http://www.gnupg.org/aegypten/ for details. 
+

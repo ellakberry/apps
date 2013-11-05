@@ -1,0 +1,5 @@
+
+ kde-l10n-ga 
+ 
+ Irish language support for KDE. 
+

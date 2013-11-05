@@ -1,0 +1,12 @@
+
+ popa3d (a POP3 daemon) 
+ 
+ popa3d is a Post Office Protocol version 3 (POP3) server. A POP3 
+ server operates on local mailboxes on behalf of its remote users. 
+ Users can connect at any time to check their mailbox and fetch the 
+ mail that has accumulated. The design goals of this POP3 server are 
+ security, reliability, RFC compliance (slightly relaxed to work with 
+ real-world POP3 clients), and high performance. 
+ 
+ The popa3d daemon was written by Solar Designer. 
+

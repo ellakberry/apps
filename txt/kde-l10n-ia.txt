@@ -1,0 +1,5 @@
+
+ kde-l10n-ia 
+ 
+ Interlingua language support for KDE. 
+

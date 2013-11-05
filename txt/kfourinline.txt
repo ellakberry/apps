@@ -1,0 +1,9 @@
+
+ kfourinline (four-in-a-row board game) 
+ 
+ KFourInLine is a board game for two players based on the 
+ Connect-Four game. The players try to build up a row of 
+ four pieces using different strategies. 
+ 
+ For more information, visit: http://www.kde.org 
+

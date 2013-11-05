@@ -1,0 +1,10 @@
+
+ xf86-video-v4l (Video 4 Linux adaptor driver for X) 
+ 
+ xf86-video-v4l is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

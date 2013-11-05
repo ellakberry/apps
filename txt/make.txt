@@ -1,0 +1,44 @@
+auto
+ automake (a Makefile generator) auto
+ auto
+ This is Automake, a Makefile generator. It was inspired by the 4.4BSD auto
+ make and include files, but aims to be portable and to conform to the auto
+ GNU standards for Makefile variables and targets. Automake is a Perl auto
+ script. The input files are called Makefile.am. The output files are auto
+ called Makefile.in; they are intended for use with Autoconf. Automake auto
+ requires certain things to be done in your configure.in. You must auto
+ install the "m4" and "perl" packages to be able to use automake. auto
+ c
+ CMake (cross-platform, open-source make system) c
+ c
+ CMake is used to control the software process using simple platform c
+ and compiler independent configuration files. CMake generates c
+ native makefiles and workspaces that can be used in the c
+ compiler environment of your choice. c
+ c
+ CMake's home on the web is: http://www.cmake.org c
+ i
+ imake (C preprocessor interface to the make utility) i
+ i
+ The imake package contains the imake utility, plus the following i
+ support programs: ccmakedep, mergelib, revpath, mkdirhier, makeg, i
+ cleanlinks, mkhtmlindex, xmkmf i
+ 
+ make (GNU make utility to maintain groups of programs) 
+ 
+ This is the GNU implementation of make, which was written by Richard 
+ Stallman and Roland McGrath. The purpose of the make utility is to 
+ determine automatically which pieces of a large program need to be 
+ recompiled, and issue the commands to recompile them. 
+ 
+ This is needed to compile just about any major C program, including 
+ the Linux kernel. 
+ p
+ pmake (BSD parallel make) p
+ p
+ This is PMake -- a parallel Make program originally written for the p
+ Sprite operating system, ported from BSD Unix. This may be useful if p
+ you're going to port software with Makefiles designed for BSD. p
+ p
+ PMake was written by Adam de Boor. p
+

@@ -1,0 +1,9 @@
+
+ libmbim (MBIM library and utils) 
+ 
+ The Mobile Broadband Interface Model (MBIM) is a new standard to 
+ communicate with mobile broadband modem devices developed by the 
+ USB Implementors Forum. 
+ 
+ Homepage: http://www.freedesktop.org/software/libmbim/ 
+

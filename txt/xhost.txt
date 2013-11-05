@@ -1,0 +1,6 @@
+
+ xhost (X11 authorization utility) 
+ 
+ xhost is used to manage the list of host names or user names allowed 
+ to make connections to the X server. 
+

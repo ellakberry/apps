@@ -1,0 +1,12 @@
+
+ pidentd (TCP/IP IDENT protocol server) 
+ 
+ The identd daemon implements the IDENT protocol as specified in 
+ RFC1413. When your machine connects to a remote system, the remote 
+ machine may connect to your identd daemon to find out either the 
+ user name or other information about the process that initiated 
+ the connection. Some remote machines may choose not to allow your 
+ connections if you do not provide access to an identd daemon. 
+ 
+ The pidentd daemon was written by Peter Eriksson. 
+

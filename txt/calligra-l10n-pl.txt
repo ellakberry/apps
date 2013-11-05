@@ -1,0 +1,5 @@
+
+ calligra-l10n-pl 
+ 
+ Polish language support for Calligra. 
+

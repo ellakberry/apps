@@ -1,0 +1,10 @@
+
+ libcap (get/set POSIX capabilities) 
+ 
+ This is a library for getting and setting POSIX.1e (formerly POSIX 6) 
+ draft 15 capabilities. 
+ 
+ Libcap was written by Andrew G. Morgan; however, it would not 
+ have been possible without the help of Aleph1, Roland Buresund, 
+ Andrew Main, and Alexander Kjeldaas. 
+

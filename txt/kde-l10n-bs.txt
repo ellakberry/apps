@@ -1,0 +1,5 @@
+
+ kde-l10n-bs 
+ 
+ Bosnian language support for KDE. 
+

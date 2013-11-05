@@ -1,0 +1,10 @@
+
+ dnsmasq (small DNS and DHCP server) 
+ 
+ Dnsmasq is a lightweight, easy to configure DNS forwarder and DHCP 
+ server. It is designed to provide DNS (and optionally DHCP) to a 
+ small network, and can serve the names of local machines which are not 
+ in the global DNS. 
+ 
+ Dnsmasq was written by Simon Kelley. 
+

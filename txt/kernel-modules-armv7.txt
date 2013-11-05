@@ -1,0 +1,11 @@
+
+ Linux kernel modules for devices with an ARMv7 or higher CPU 
+ 
+ A kernel module is a piece of object code that can be dynamically 
+ loaded into the Linux kernel to provide new kernel functions. Most of 
+ these modules provide support for devices such as CD-ROM drives, tape 
+ drives, and ethernet cards. You can choose which modules to load by 
+ editing /etc/rc.d/rc.modules. 
+ 
+ 
+

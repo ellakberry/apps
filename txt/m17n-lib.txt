@@ -1,0 +1,10 @@
+
+ m17n-lib (application multilingualization library) 
+ 
+ M17n is an abbreviation of Multilingualization. The m17n library 
+ implements multilingualization for many applications. The m17n 
+ library supports functions to handle M-texts. This package also 
+ contains the m17n database. 
+ 
+ m17n-lib home: http://m17n.org/ 
+

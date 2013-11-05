@@ -1,0 +1,7 @@
+
+ libbluedevil (Qt wrapper for bluez) 
+ 
+ This is a Qt-based library for handling Bluetooth functionality. 
+ 
+ Homepage: http://ereslibre.es/ 
+

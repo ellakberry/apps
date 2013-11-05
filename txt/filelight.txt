@@ -1,0 +1,8 @@
+
+ filelight (file system monitor) 
+ 
+ Filelight allows you to quickly understand exactly where your 
+ diskspace is being used by graphically representing your file system. 
+ 
+ filelight's home page is: http://utils.kde.org/projects/filelight 
+

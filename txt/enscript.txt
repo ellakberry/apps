@@ -1,0 +1,9 @@
+
+ enscript (converts text files to PostScript and other formats) 
+ 
+ Enscript converts text files to PostScript and spools the generated 
+ output to a printer or saves it to a file. If no input files are 
+ given, enscript processes standard input. Enscript can be extended to 
+ handle different output media and it has many options for customizing 
+ printouts. 
+

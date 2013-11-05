@@ -1,0 +1,15 @@
+kde-l10n-
+ kde-l10n-nn kde-l10n-
+ kde-l10n-
+ Norwegian (Nynorsk) language support for KDE. kde-l10n-
+ 
+ nn (the NN newsreader) 
+ 
+ nn is an easy to use menu driven newsreader by Kim F. Storm. 
+ 
+ nn stands for "No News is good news", and the nn newsreader is 
+ designed to let you minimize the amount of time you spend reading news 
+ (or, more realistically, to let you to read even more newsgroups :-). 
+ This version of nn reads news from a news server via NNTP, and can 
+ make use of your NNTP server's NOV database. 
+

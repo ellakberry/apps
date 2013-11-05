@@ -1,0 +1,6 @@
+
+ libxslt (XML transformation library) 
+ 
+ XSLT support for libxml2. (XSLT is a language used for transforming 
+ XML documents) 
+

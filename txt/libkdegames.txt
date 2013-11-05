@@ -1,0 +1,7 @@
+
+ libkdegames (common code and data for many KDE games) 
+ 
+ Libkdegames contains common code and data for many KDE games. 
+ 
+ For more information, visit: http://www.kde.org 
+

@@ -1,0 +1,24 @@
+at-spi2-a
+ at-spi2-atk (AT-SPI2 bridge to ATK) at-spi2-a
+ at-spi2-a
+ The At-Spi2 Atk package contains a library that bridges ATK to the at-spi2-a
+ At-Spi2 D-Bus service. at-spi2-a
+ a
+ atk (accessibility functions library) a
+ a
+ atk is a library of accessibility functions that is used by the a
+ GTK+-2 toolkit. a
+ pyg
+ pygtk (GTK+ bindings for Python) pyg
+ pyg
+ PyGTK provides a convenient wrapper for the GTK+ library for use in pyg
+ Python programs, taking care of many of the boring details such as pyg
+ managing memory and type casting. pyg
+ pyg
+ PyGTK's web page: http://www.pygtk.org/ pyg
+ 
+ tk (Tk toolkit for Tcl) 
+ 
+ Tk is an extension to Tcl that allows you to quickly and easily build 
+ X11 applications that have the look and feel of Motif apps. 
+

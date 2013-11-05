@@ -1,0 +1,8 @@
+
+ libkdcraw (library wrapper around dcraw) 
+ 
+ Libkdcraw is a C++ interface around the dcraw binary program, used 
+ to decode RAW picture files. 
+ 
+ For more information, visit: http://www.kipi-plugins.org/ 
+

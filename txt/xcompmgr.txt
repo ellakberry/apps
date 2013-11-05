@@ -1,0 +1,7 @@
+
+ xcompmgr (X11 compositing manager) 
+ 
+ xcompmgr is a sample compositing manager for X servers supporting the 
+ XFIXES, DAMAGE, RENDER, and COMPOSITE extensions. It enables basic 
+ eye-candy effects. 
+

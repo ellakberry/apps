@@ -1,0 +1,7 @@
+
+ kmouth (Speech synthesis frontend) 
+ 
+ The computer "speaks" the entered text for talking with people. 
+ 
+ For more information, visit: http://www.kde.org 
+

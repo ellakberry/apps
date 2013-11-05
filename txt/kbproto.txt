@@ -1,0 +1,10 @@
+
+ kbproto (C prototypes for X11 X Keyboard Extension) 
+ 
+ kbproto is part of X11. 
+ 
+ For more information about the X.Org Foundation (the providers of the 
+ X.Org implementation of the X Window System), see their website: 
+ 
+ http://www.x.org 
+

@@ -1,0 +1,10 @@
+
+ katomic (re-assemble molecules from compound atoms) 
+ 
+ Katomic is both fun and educational game built around molecular 
+ geometry. It employs simplistic two-dimensional looks at different 
+ chemical elements. You can also play an online demo version 
+ of this game. 
+ 
+ For more information, visit: http://www.kde.org 
+

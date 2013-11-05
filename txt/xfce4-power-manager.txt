@@ -1,0 +1,6 @@
+
+ xfce4-power-manager (Power Management Daemon for Xfce) 
+ 
+ xfce4-power-manager makes power management functions (such as 
+ suspend and hibernate) easy inside the Xfce Desktop Environment. 
+

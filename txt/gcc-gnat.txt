@@ -1,0 +1,9 @@
+
+ gcc-gnat (Ada support for GCC) 
+ 
+ Ada 95 support for the GNU Compiler Collection. 
+ 
+ This package contains those parts of the compiler collection needed to 
+ compile Ada 95 code. Ada95 is the object oriented successor to the 
+ Ada83 language. The base gcc package is also required. 
+

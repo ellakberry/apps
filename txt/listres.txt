@@ -1,0 +1,6 @@
+
+ listres (X11 resource lister) 
+ 
+ The listres program generates a list of X resources for a widget in 
+ an X client written using a toolkit based on libXt. 
+

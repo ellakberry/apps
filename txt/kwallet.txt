@@ -1,0 +1,8 @@
+
+ kwallet (KDE wallet manager) 
+ 
+ KDE Wallet Manager is a tool to manage your passwords under KDE. 
+ 
+ kwallet's home page is: 
+ https://projects.kde.org/projects/kde/kdeutils 
+

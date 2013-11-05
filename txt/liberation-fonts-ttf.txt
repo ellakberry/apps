@@ -1,0 +1,11 @@
+
+ liberation-fonts-ttf (Liberation TTF Fonts) 
+ 
+ Liberation is the collective name of three TrueType font 
+ families: Liberation Sans, Liberation Serif and Liberation 
+ Mono. These fonts are metric-compatible with Arial, Times 
+ New Roman, and Courier New respectively. 
+ 
+ The fonts were developed by Steve Matteson of Ascender Corp. 
+ for Red Hat, Inc. 
+

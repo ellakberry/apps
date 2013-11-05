@@ -1,0 +1,8 @@
+
+ parted (GNU disk partitioning tool) 
+ 
+ GNU Parted is a program for creating, destroying, resizing, checking 
+ and copying partitions, and the filesystems on them. This is useful 
+ for creating space for new operating systems, reorganizing disk 
+ usage, copying data between hard disks, and disk imaging. 
+

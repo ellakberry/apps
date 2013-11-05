@@ -1,0 +1,5 @@
+
+ kde-l10n-kk 
+ 
+ Kazakh language support for KDE. 
+

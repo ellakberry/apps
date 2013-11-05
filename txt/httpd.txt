@@ -1,0 +1,12 @@
+
+ httpd (The Apache HTTP Server) 
+ 
+ Apache is an HTTP server designed as a plug-in replacement for the 
+ NCSA HTTP server. It fixes numerous bugs in the NCSA server and 
+ includes many frequently requested new features, and has an API which 
+ allows it to be extended to meet users' needs more easily. 
+ 
+ Apache is the most popular web server in the known universe; over 
+ half of the servers on the Internet are running Apache or one of 
+ its variants. 
+

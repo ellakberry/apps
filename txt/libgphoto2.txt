@@ -1,0 +1,8 @@
+
+ libgphoto2 (Digital Camera Library) 
+ 
+ libgphoto2 is a library that can be used by applications to access 
+ various digital cameras. 
+ 
+ Homepage: http://www.gphoto.org/ 
+

@@ -1,0 +1,7 @@
+
+ svgpart (SVG plugin for KDE) 
+ 
+ KPart for viewing SVG files in KDE. 
+ 
+ For more information, visit: http://www.kde.org 
+

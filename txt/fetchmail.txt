@@ -1,0 +1,12 @@
+
+ fetchmail (mail retrieval and forwarding utility) 
+ 
+ fetchmail is a mail retrieval and forwarding utility. It fetches 
+ mail from a POP, IMAP, or ETRN-capable remote mailserver and forwards 
+ it to your local (client) machine's delivery system. You can then 
+ handle the retrieved mail using normal mail user agents such as elm, 
+ pine, or mutt. The fetchmail utility can be run in a daemon mode to 
+ repeatedly poll one or more systems at a specified interval. 
+ 
+ fetchmail is probably not secure. 
+

@@ -1,0 +1,9 @@
+
+ icon-naming-utils (generate icon files for your DE) 
+ 
+ It is a script for maintaining backwards compatibility with current 
+ desktop icon themes, while migrating to the names specified in the 
+ Icon Naming Specification. 
+ 
+ Homepage: http://tango.freedesktop.org 
+

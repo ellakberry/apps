@@ -1,0 +1,30 @@
+k
+ kscreen (KDE screen management) k
+ k
+ KScreen is the new screen management software for KDE Plasma k
+ Workspaces which tries to be as magic and automatic as possible k
+ for users with basic needs and easy to configure for those k
+ who want special setups. k
+ k
+ For more information, visit: k
+ http://community.kde.org/Solid/Projects/ScreenManagement k
+ libk
+ libkscreen (KDE screen management library) libk
+ libk
+ LibKScreen is a library that provides access to current configuration libk
+ of connected displays and ways to change the configuration. libk
+ libk
+ For more information, visit: libk
+ http://community.kde.org/Solid/Projects/ScreenManagement libk
+ 
+ screen (screen manager with VT100/ANSI terminal emulation) 
+ 
+ Screen is a full-screen window manager that multiplexes a physical 
+ terminal between several processes (typically interactive shells). 
+ Each virtual terminal provides the functions of a DEC VT100 terminal 
+ and several control functions from the ISO 6492 (ECMA 48, ANSI X3.64) 
+ and ISO 2022 standards (e.g. insert/delete line and support for 
+ multiple character sets). There is a scrollback history buffer for 
+ each virtual terminal and a copy-and-paste mechanism that allows 
+ moving text regions between windows. 
+

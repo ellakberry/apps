@@ -1,0 +1,12 @@
+
+ sysvinit-functions (/etc/init.d/functions) 
+ 
+ This is the /etc/init.d/functions file, the typical sysvinit-style 
+ directories, and a few supporting binaries. Using this system, 
+ subdirectories of /etc/rc.d/ are searched for scripts (which are 
+ usually symlinks to the script in /etc/init.d/ or /etc/rc.d/init.d/). 
+ The links must start with S to start a script or K to stop (kill) it. 
+ 
+ For the most part, these are useful for running software developed 
+ for other versions of Linux. 
+

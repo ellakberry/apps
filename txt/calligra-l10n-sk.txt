@@ -1,0 +1,5 @@
+
+ calligra-l10n-sk 
+ 
+ Slovak language support for Calligra. 
+

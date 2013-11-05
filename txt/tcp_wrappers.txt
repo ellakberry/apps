@@ -1,0 +1,12 @@
+
+ tcp_wrappers (TCP/IP daemon wrapper library and utilities) 
+ 
+ With this package you can monitor and filter incoming requests for 
+ network services for access control, and detection things like host 
+ name spoofing and host address spoofing. Nearly all the network 
+ daemons on Slackware are "wrapped" using this library, and most 
+ daemons in /etc/inetd.conf use tcp_wrappers' tcpd wrapper daemon. 
+ If you plan to do much networking, you will need tcp_wrappers. 
+ 
+ tcp_wrappers was written by Wietse Venema. 
+

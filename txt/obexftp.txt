@@ -1,0 +1,12 @@
+
+ obexftp (Access devices via ObexFTP, such as mobile phones) 
+ 
+ This package contains some command line tools and the ObexFTP 
+ library. Using OpenOBEX it enables you to transfer data via IrDA, 
+ Bluetooth, as well as some custom (Siemens, Ericsson) serial port 
+ protocols. 
+ 
+ ObexFTP was written by Christian W. Zuckschwerdt. 
+ 
+ The project site is: http://triq.net/obexftp.html 
+

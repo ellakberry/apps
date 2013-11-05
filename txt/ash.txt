@@ -1,0 +1,31 @@
+
+ ash (Kenneth Almquist's ash shell) 
+ 
+ A lightweight (92K) Bourne compatible shell. Great for machines with 
+ low memory, but does not provide all the extras of shells like bash, 
+ tcsh, and zsh. Runs most shell scripts compatible with the Bourne 
+ shell. Note that under Linux, most scripts seem to use at least some 
+ bash-specific syntax. The Slackware setup scripts are a notable 
+ exception, since ash is the shell used on the install disks. NetBSD 
+ uses ash as its /bin/sh. 
+ b
+ bash (sh-compatible shell) b
+ b
+ The GNU Bourne-Again SHell. Bash is a sh-compatible command b
+ interpreter that executes commands read from the standard input or b
+ from a file. Bash also incorporates useful features from the Korn b
+ and C shells (ksh and csh). Bash is ultimately intended to be a b
+ conformant implementation of the IEEE Posix Shell and Tools b
+ specification (IEEE Working Group 1003.2). b
+ b
+ Bash must be present for the system to boot properly. b
+ mh
+ mhash (Thread-safe hash library) mh
+ mh
+ mhash is a thread-safe hash library, implemented in C, and provides a mh
+ uniform interface to a large number of hash algorithms (MD5, SHA-1, mh
+ HAVAL, RIPEMD128, RIPEMD160, TIGER, GOST). These algorithms can be mh
+ used to compute checksums, message digests, and other signatures. mh
+ The HMAC support implements the basics for message authentication, mh
+ following RFC 2104. mh
+

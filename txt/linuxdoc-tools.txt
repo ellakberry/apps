@@ -1,0 +1,12 @@
+
+ linuxdoc-tools (utilities for working with DocBook and SGML) 
+ 
+ SGML stands for Standard Generalized Markup Language. This is a 
+ system which allows you to produce LaTeX, HTML, GNU info, LyX, RTF, 
+ and plain text (via groff) from a single source file in SGML. It is 
+ often used for technical software documentation, such as the Linux 
+ HOWTO documents. 
+ 
+ This package includes everything you need to use SGML -- all of the 
+ standard SGML tools; OpenJade; tools for working with DocBook 
+ documents (various DTDs); xmlto and AsciiDoc.

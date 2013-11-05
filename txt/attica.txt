@@ -1,0 +1,10 @@
+
+ attica (Qt Collaboration library) 
+ 
+ Attica is a Qt library that implements the freedesktop.org 
+ specification for the Open Collaboration Services API version 1.4. 
+ It grants easy access to the services such as querying information 
+ about persons and contents. 
+ 
+ Homepage: http://www.kde.org 
+

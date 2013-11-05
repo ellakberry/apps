@@ -1,0 +1,5 @@
+
+ kde-runtime (KDE runtime core) 
+ 
+ This package contains core components of the KDE base runtime module. 
+

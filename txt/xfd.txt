@@ -1,0 +1,6 @@
+
+ xfd (X11 font utility) 
+ 
+ xfd displays all the characters in a font using either the X11 core 
+ protocol or libXft2. 
+

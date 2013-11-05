@@ -1,0 +1,9 @@
+
+ libgsf (structured file I/O library) 
+ 
+ libgsf aims to provide an efficient extensible I/O abstraction for 
+ dealing with different structured file formats. 
+ 
+ libgsf is used by libwv2, which is used by various word processors 
+ to import .doc format files. 
+
